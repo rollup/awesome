@@ -45,7 +45,7 @@
 - [rollup-plugin-svelte](https://github.com/rollup/rollup-plugin-svelte) - Compile Svelte components.
 - [rollup-plugin-terser](https://github.com/TrySound/rollup-plugin-terser) - Minify a bundle using Terser.
 - [rollup-plugin-typescript](https://github.com/rollup/rollup-plugin-typescript) - Seamless integration with Typescript.
-- [rollup-plugin-uglify-es](https://github.com/ezekielchentnik/rollup-plugin-uglify-es) - Minify a bundle with Uglify.
+- [rollup-plugin-uglify](https://github.com/TrySound/rollup-plugin-uglify) - Minify a bundle with UglifyJS.
 - [rollup-plugin-url](https://github.com/rollup/rollup-plugin-url) - Inline import files as data-URIs.
 - [rollup-plugin-virtual](https://github.com/rollup/rollup-plugin-virtual) - Load modules from memory.
 - [rollup-plugin-vue](https://github.com/vuejs/rollup-plugin-vue#readme) - Bundle VUE files for Vue.js.
