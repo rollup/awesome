@@ -39,6 +39,7 @@
 - [rollup-plugin-riot](https://github.com/riot/rollup-plugin-riot) - Riot.js tagfile support.
 - [rollup-plugin-sass](https://github.com/differui/rollup-plugin-sass#readme) - SASS integration for a bundle.
 - [rollup-plugin-serve](https://github.com/thgh/rollup-plugin-serve) - Development Server in a Plugin.
+- [rollup-plugin-size-snapshot](https://github.com/TrySound/rollup-plugin-size-snapshot) - Track your library bundles size and its treeshakability with less effort
 - [rollup-plugin-sizes](https://github.com/tivac/rollup-plugin-sizes) - Display bundle content and size in the console.
 - [rollup-plugin-strip](https://github.com/rollup/rollup-plugin-strip) - Remove expressions from code.
 - [rollup-plugin-sucrase](https://github.com/rollup/rollup-plugin-sucrase) - Compile TypeScript, Flow, JSX.
