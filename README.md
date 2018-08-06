@@ -17,6 +17,7 @@
 - [rollup-plugin-babel-minify](https://github.com/Comandeer/rollup-plugin-babel-minify) - Minify a bundle with Babel.
 - [rollup-plugin-browserify-transform](https://www.npmjs.com/package/rollup-plugin-browserify-transform) - Use Browserify transforms in a build.
 - [rollup-plugin-butternut](https://github.com/rollup/rollup-plugin-butternut) - Compress Rollup bundles.
+- [rollup-plugin-closure-compiler](https://github.com/ampproject/rollup-plugin-closure-compiler) – Compress Rollup Bundles with Closure Compiler.
 - [rollup-plugin-commonjs](https://github.com/rollup/rollup-plugin-commonjs) - Convert CommonJS modules to ES Modules.
 - [rollup-plugin-copy](https://github.com/meuter/rollup-plugin-copy) - Copy files during a build.
 - [rollup-plugin-dsv](https://github.com/rollup/rollup-plugin-dsv) - Convert CSV and TSV files into JavaScript modules.
