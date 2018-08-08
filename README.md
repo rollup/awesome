@@ -36,7 +36,7 @@
 - [rollup-plugin-postcss](https://github.com/egoist/rollup-plugin-postcss) - Seamless integration with PostCSS.
 - [rollup-plugin-preserve-shebang](https://github.com/developit/rollup-plugin-preserve-shebang) - Preserves leading shebang in a build entry.
 - [rollup-plugin-progress](https://github.com/jkuri/rollup-plugin-progress) - Show build progress in the console.
-- [rollup-plugin-ractive](https://github.com/rollup/rollup-plugin-reactive) - Precompile Ractive components.
+- [rollup-plugin-ractive](https://github.com/rollup/rollup-plugin-ractive) - Precompile Ractive components.
 - [rollup-plugin-replace](https://github.com/rollup/rollup-plugin-replace) - Replace content while bundling.
 - [rollup-plugin-riot](https://github.com/riot/rollup-plugin-riot) - Riot.js tagfile support.
 - [rollup-plugin-sass](https://github.com/differui/rollup-plugin-sass#readme) - SASS integration for a bundle.
