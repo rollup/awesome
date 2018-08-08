@@ -28,6 +28,7 @@
 - [rollup-plugin-json](https://github.com/rollup/rollup-plugin-json) - Convert JSON files to ES Modules.
 - [rollup-plugin-legacy](https://github.com/rollup/rollup-plugin-legacy) - Add export statements to plain scripts.
 - [rollup-plugin-license](https://github.com/mjeanroy/rollup-plugin-license) - Add Licensing to a bundle.
+- [rollup-plugin-loadz0r](https://github.com/surma/rollup-plugin-loadz0r) - Code-splitting across Workers and the UI Thread.
 - [rollup-live-reload](https://github.com/thgh/rollup-plugin-livereload) - Live reloading for a bundle.
 - [rollup-plugin-multi-entry](https://github.com/rollup/rollup-plugin-multi-entry) - Multiple entry points for a bundle.
 - [rollup-plugin-node-builtins](https://github.com/rollup/rollup-plugin-node-builtins) - Node builtin modules as ES modules.
