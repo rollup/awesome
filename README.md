@@ -142,7 +142,6 @@ Plugins which affect the final output of a bundle.
 - [hash](https://github.com/phamann/rollup-plugin-hash) – Generate output files with unique hashes.
 - [license](https://github.com/mjeanroy/rollup-plugin-license) - Add Licensing to a bundle.
 - [live-reload](https://github.com/thgh/rollup-plugin-livereload) - Live reloading for a bundle.
-- [minify](https://www.npmjs.com/package/rollup-plugin-minify-es) - Minify an ES6 bundle.
 - [preserve-shebang](https://github.com/developit/rollup-plugin-preserve-shebang) - Preserves leading shebang in a build entry.
 - [prettier](https://github.com/mjeanroy/rollup-plugin-prettier) - Run prettier on a bundle.
 - [rebase](https://github.com/sebastian-software/rollup-plugin-rebase) - Copies and adjusts asset references to new destination-relative location.
