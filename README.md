@@ -88,7 +88,7 @@ and external modules.
 - [inject](https://github.com/rollup/rollup-plugin-inject) - Scans for global variables and injects `import` statements.
 - [legacy](https://github.com/rollup/rollup-plugin-legacy) - Add export statements to plain scripts.
 - [named-directory](https://github.com/frostney/rollup-plugin-named-directory) - Provides shortcuts for colocated modules in directories.
-- [node-builtins](https://github.com/rollup/rollup-plugin-node-builtins) - Node builtin modules as ES modules.
+- [node-builtins](https://github.com/calvinmetcalf/rollup-plugin-node-builtins) - Node builtin modules as ES modules.
 - [node-globals](https://github.com/calvinmetcalf/rollup-plugin-node-globals) - Injects node globals.
 - [node-resolve](https://github.com/rollup/rollup-plugin-node-resolve) - Use the Node resolution algorithm.
 - [node-resolve-angular](https://github.com/OasisDigital/rollup-plugin-node-resolve-angular) - Node module resolution support for Angular 4+.
