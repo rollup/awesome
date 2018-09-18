@@ -206,6 +206,7 @@ Plugins which affect the Rollup workflow.
 - [loadz0r](https://github.com/surma/rollup-plugin-loadz0r) - Code-splitting across Workers and the UI Thread.
 - [make](https://github.com/btmorex/rollup-plugin-make) - Build dependency files suitable for make
 - [multi-entry](https://github.com/rollup/rollup-plugin-multi-entry) - Multiple entry points for a bundle.
+- [run](https://github.com/rollup/rollup-plugin-run) - Run your bundle after it's generated.
 - [sourcemaps](https://github.com/maxdavidson/rollup-plugin-sourcemaps) – Load external source maps from URIs.
 
 ## Packages
