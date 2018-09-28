@@ -140,6 +140,7 @@ Plugins which affect the final output of a bundle.
 - [generate-package-json](https://github.com/VladShcherbin/rollup-plugin-generate-package-json) - Generate a `package.json` file with dependencies from your bundle.
 - [gzip](https://github.com/kryops/rollup-plugin-gzip) - Create a compressed GZ artifact for your bundle.
 - [hash](https://github.com/phamann/rollup-plugin-hash) – Generate output files with unique hashes.
+- [iife](https://github.com/eight04/rollup-plugin-iife) - Convert ES modules to IIFEs.
 - [license](https://github.com/mjeanroy/rollup-plugin-license) - Add Licensing to a bundle.
 - [live-reload](https://github.com/thgh/rollup-plugin-livereload) - Live reloading for a bundle.
 - [preserve-shebang](https://github.com/developit/rollup-plugin-preserve-shebang) - Preserves leading shebang in a build entry.
@@ -169,6 +170,7 @@ Plugins for working with template languages.
 Plugins which search for, and replace text in a bundle.
 
 - [ascii](https://github.com/mbostock/rollup-plugin-ascii) – Rewrite non-ASCII characters as string literals.
+- [inline-js](https://github.com/eight04/rollup-plugin-inline-js) - Inline files or command outputs into the source code.
 - [re](https://github.com/jetiny/rollup-plugin-re) – Replace text with Regular Expressions.
 - [replace](https://github.com/rollup/rollup-plugin-replace) – Replace occurrences of a set of strings.
 - [strip-code](https://github.com/se-panfilov/rollup-plugin-strip-code) - Remove text with Regular Expressions.
