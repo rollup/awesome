@@ -15,6 +15,7 @@
 ### All-Purpose Awesome
 
 - [graph](https://github.com/ondras/rollup-plugin-graph) – Generates a module dependency graph.
+- [nollup](https://github.com/PepsRyuu/nollup) - Rollup development bundler following the same plugin API for hot module reloading.
 - [notify](https://github.com/MikeKovarik/rollup-plugin-notify) – Display errors as system notifications.
 - [progress](https://github.com/jkuri/rollup-plugin-progress) - Show build progress in the console.
 - [serve](https://github.com/thgh/rollup-plugin-serve) - Development Server in a Plugin.
