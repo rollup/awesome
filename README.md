@@ -53,7 +53,6 @@ Plugins for working with CSS.
 - [sass](https://github.com/differui/rollup-plugin-sass#readme) - SASS integration for a bundle.
 - [scss](https://github.com/thgh/rollup-plugin-scss) - Compile SASS and CSS.
 - [stylus-css-modules](https://github.com/mtojo/rollup-plugin-stylus-css-modules) – Compile Stylus and inject CSS modules
-- [stylus-to-css](https://github.com/robhicks/rollup-plugin-stylus-to-css) - Compile Stylus to css and make it avaialbe to import.
 - [sass-variables](https://github.com/gmfun/rollup-plugin-sass-variables) - Import SASS variables as Objects.
 
 ### Frameworks
