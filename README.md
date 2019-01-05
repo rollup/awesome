@@ -140,7 +140,7 @@ Plugins which affect the final output of a bundle.
 - [generate-package-json](https://github.com/VladShcherbin/rollup-plugin-generate-package-json) - Generate a `package.json` file with dependencies from your bundle.
 - [gzip](https://github.com/kryops/rollup-plugin-gzip) - Create a compressed GZ artifact for your bundle.
 - [hash](https://github.com/phamann/rollup-plugin-hash) – Generate output files with unique hashes.
-- [iife](https://github.com/eight04/rollup-plugin-iife) - Convert ES modules to IIFEs.
+- [iife](https://github.com/eight04/rollup-plugin-iife) - Convert ES modules to Immediately Invoked Function Expressions.
 - [license](https://github.com/mjeanroy/rollup-plugin-license) - Add Licensing to a bundle.
 - [live-reload](https://github.com/thgh/rollup-plugin-livereload) - Live reloading for a bundle.
 - [preserve-shebang](https://github.com/developit/rollup-plugin-preserve-shebang) - Preserves leading shebang in a build entry.
