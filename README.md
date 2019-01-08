@@ -48,13 +48,13 @@ Plugins for working with CSS.
 - [css-porter](https://github.com/RJHwang/rollup-plugin-css-porter) - Combine CSS imports and output to file.
 - [embed-css](https://github.com/kei-ito/rollup-plugin-embed-css) - Import and append CSS to a bundle.
 - [less](https://github.com/xiaofuzi/rollup-plugin-less) - Compile LESS files.
+- [less-modules](https://github.com/katrotz/rollup-plugin-less-modules) - Import or Bundle LESS files.
 - [modular-css](https://github.com/tivac/modular-css#rollup) - Alternative CSS Modules implementation supporting Rollup.
 - [postcss](https://github.com/egoist/rollup-plugin-postcss) - Seamless integration with PostCSS.
 - [sass](https://github.com/differui/rollup-plugin-sass#readme) - SASS integration for a bundle.
 - [scss](https://github.com/thgh/rollup-plugin-scss) - Compile SASS and CSS.
 - [stylus-css-modules](https://github.com/mtojo/rollup-plugin-stylus-css-modules) – Compile Stylus and inject CSS modules
 - [sass-variables](https://github.com/gmfun/rollup-plugin-sass-variables) - Import SASS variables as Objects.
-- [less-modules](https://github.com/katrotz/rollup-plugin-less-modules) - Import or Bundle LESS files.
 
 ### Frameworks
 
@@ -128,6 +128,7 @@ Plugins which allow importing other types of files as modules.
 Plugins which affect the final output of a bundle.
 
 - [babel-minify](https://github.com/Comandeer/rollup-plugin-babel-minify) - Minify a bundle with Babel.
+- [banner](https://github.com/yingye/rollup-plugin-banner) - Append content before js bundle.
 - [bundleutils](https://github.com/pschroen/rollup-plugin-bundleutils) - Set of commonly used utility functions.
 - [butternut](https://github.com/rollup/rollup-plugin-butternut) - Compress Rollup bundles.
 - [clear](https://github.com/DongShelton/rollup-plugin-clear) - Clear an output directory before a build.
@@ -152,7 +153,6 @@ Plugins which affect the final output of a bundle.
 - [static-site](https://gitlab.com/thekelvinliu/rollup-plugin-static-site) - Generate HTML for a bundle.
 - [terser](https://github.com/TrySound/rollup-plugin-terser) - Minify a bundle using Terser.
 - [uglify](https://github.com/TrySound/rollup-plugin-uglify) - Minify a bundle with UglifyJS.
-- [banner](https://github.com/yingye/rollup-plugin-banner) - Append content before js bundle.
 
 ### Templating
 
