@@ -104,7 +104,7 @@ Plugins which allow importing other types of files as modules.
 
 - [file-as-blob](https://gitlab.com/IvanSanchez/rollup-plugin-file-as-blob) – Import a file as a `blob:` URL.
 - [glsl](https://github.com/vwochnik/rollup-plugin-glsl) - Import GLSL shaders as compressed strings.
-- [glslify](https://github.com/pschroen/rollup-plugin-glslify) - Import GLSL strings.
+- [glslify](https://github.com/glslify/rollup-plugin-glslify) - Import GLSL strings with [glslify](https://github.com/glslify/glslify).
 - [gltf](https://github.com/bengsfort/rollup-plugin-gltf) - Import glTF 3d models as a URI or inlined JSON.
 - [html](https://github.com/bdadam/rollup-plugin-html) - Import html files as strings.
 - [hypothetical](https://github.com/Permutatrix/rollup-plugin-hypothetical) - Import modules from a virtual filesystem.
