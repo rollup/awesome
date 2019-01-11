@@ -80,7 +80,6 @@ and external modules.
 - [bower-resolve](https://github.com/mjeanroy/rollup-plugin-bower-resolve) – Use Bower the resolution algorithm.
 - [cjs-es](https://github.com/eight04/rollup-plugin-cjs-es) - Convert CommonJS modules without proxying and reassignment.
 - [commonjs](https://github.com/rollup/rollup-plugin-commonjs) - Convert CommonJS modules to ES Modules.
-- [dsv](https://github.com/rollup/rollup-plugin-dsv) - Convert CSV and TSV files into JavaScript modules.
 - [external-globals](https://github.com/eight04/rollup-plugin-external-globals) - Replace imported bindings with a global variable.
 - [force-binding](https://github.com/tehvgg/rollup-plugin-force-binding) - Composes multi-entry and node-resolve to prevent duplicated imports.
 - [glob-import](https://github.com/kei-ito/rollup-plugin-glob-import) - Glob support for import statements.
@@ -102,6 +101,7 @@ and external modules.
 
 Plugins which allow importing other types of files as modules.
 
+- [dsv](https://github.com/rollup/rollup-plugin-dsv) - Convert CSV and TSV files into JavaScript modules.
 - [file-as-blob](https://gitlab.com/IvanSanchez/rollup-plugin-file-as-blob) – Import a file as a `blob:` URL.
 - [glsl](https://github.com/vwochnik/rollup-plugin-glsl) - Import GLSL shaders as compressed strings.
 - [glslify](https://github.com/glslify/rollup-plugin-glslify) - Import GLSL strings with [glslify](https://github.com/glslify/glslify).
