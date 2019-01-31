@@ -133,6 +133,7 @@ Plugins which affect the final output of a bundle.
 - [butternut](https://github.com/rollup/rollup-plugin-butternut) - Compress Rollup bundles.
 - [clear](https://github.com/DongShelton/rollup-plugin-clear) - Clear an output directory before a build.
 - [closure-compiler](https://github.com/ampproject/rollup-plugin-closure-compiler) – Compress Rollup Bundles with Closure Compiler.
+- [copier](https://github.com/marverix/rollup-plugin-copier) - Configurable plugin that copies desired files during specified phase.
 - [copy](https://github.com/meuter/rollup-plugin-copy) - Copy files during a build.
 - [copy-assets](https://github.com/bengsfort/rollup-plugin-copy-assets) - Copy specified assets to the output directory.
 - [cpy](https://github.com/shrynx/rollup-plugin-cpy) - Easily copy files and folders during a build.
