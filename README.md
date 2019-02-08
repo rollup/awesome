@@ -163,6 +163,7 @@ Plugins for working with template languages.
 - [eft](https://github.com/ClassicOldSong/rollup-plugin-eft) - Compile ef.js templates.
 - [ejs](https://github.com/trofima/rollup-plugin-ejs) - Compile .EJS templates.
 - [jst](https://github.com/btd/rollup-plugin-jst) - Compile Lodash templates.
+- [lit-html](https://gitlab.com/rockerest/rollup-plugin-lit-html) - Compile "plain" .html files as `lit-html` templates
 - [posthtml-template](https://github.com/Vanilla-IceCream/rollup-plugin-posthtml-template) - Seamless integration with PostHTML
 - [pug](https://github.com/aMarCruz/rollup-plugin-pug) - Compile Pug Templates as es6 modules.
 - [pug-html](https://github.com/tycho01/rollup-plugin-pug-html) - Import Pug Templates as HTML strings during a build.
