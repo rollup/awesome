@@ -93,6 +93,7 @@ and external modules.
 - [node-globals](https://github.com/calvinmetcalf/rollup-plugin-node-globals) - Injects node globals.
 - [node-resolve](https://github.com/rollup/rollup-plugin-node-resolve) - Use the Node resolution algorithm.
 - [node-resolve-angular](https://github.com/OasisDigital/rollup-plugin-node-resolve-angular) - Node module resolution support for Angular 4+.
+- [script-tag](https://github.com/panoply/rollup-plugin-script-tag) - Bundle `<script>` tags as modules.
 - [stub](https://github.com/eventualbuddha/rollup-plugin-stub) - Stub module.exports at runtime.
 - [ts-paths](https://github.com/bitshiftza/rollup-plugin-ts-paths) – Resolve modules from `tsconfig` paths.
 - [virtual](https://github.com/rollup/rollup-plugin-virtual) - Load modules from memory.
