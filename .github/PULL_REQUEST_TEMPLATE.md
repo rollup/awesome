@@ -11,6 +11,8 @@
 
 Awesome Contribution Checklist:
 
+<!-- *** If you do not abide by the Conntributing Guidelines, your Pull Request WILL BE CLOSED -->
+
 - [ ] I have read, and re-read the [Contributing Guidelines](https://github.com/rollup/awesome/blob/master/.github/CONTRIBUTING.md)
 - [ ] I have searched to ensure the suggested item doesn't exist on this list
 - [ ] This PR contains only one item
