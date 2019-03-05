@@ -66,7 +66,6 @@ Plugins for working with awesome JavaScript frameworks.
 - [riot](https://github.com/riot/rollup-plugin-riot) - Riot.js tagfile support.
 - [svelte](https://github.com/rollup/rollup-plugin-svelte) — Compile Svelte components.
 - [vue](https://github.com/vuejs/rollup-plugin-vue) - Compile Vue components.
-- [vue2](https://github.com/thgh/rollup-plugin-vue2) - compile Vue 2.0 components.
 - [vue-inline-svg](https://github.com/e-e-e/rollup-plugin-vue-inline-svg) - Import SVG files as Vue components.
 
 ### Modules
