@@ -153,7 +153,7 @@ Plugins which affect the final output of a bundle.
 - [static-site](https://gitlab.com/thekelvinliu/rollup-plugin-static-site) - Generate HTML for a bundle.
 - [terser](https://github.com/TrySound/rollup-plugin-terser) - Minify a bundle using Terser.
 - [uglify](https://github.com/TrySound/rollup-plugin-uglify) - Minify a bundle with UglifyJS.
-- [rollup-plugin-app-utils](https://github.com/Autodesk/rollup-plugin-app-utils) - Commonly required utils. i18n bundler, HTML injector,  Directory utils etc...
+- [app-utils](https://github.com/Autodesk/rollup-plugin-app-utils) - Commonly required utils. i18n bundler, HTML injector,  Directory utils etc...
 
 ### Templating
 
