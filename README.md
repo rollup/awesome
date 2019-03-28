@@ -213,6 +213,7 @@ Plugins which affect the Rollup workflow.
 - [multi-entry](https://github.com/rollup/rollup-plugin-multi-entry) - Multiple entry points for a bundle.
 - [run](https://github.com/rollup/rollup-plugin-run) - Run your bundle after it's generated.
 - [sourcemaps](https://github.com/maxdavidson/rollup-plugin-sourcemaps) – Load external source maps from URIs.
+- [multi-input](https://github.com/alfredosalzillo/rollup-plugin-multi-input) - Multiple mixed type entry point with support for glob path and output directory structure preservation.
 
 ## Packages
 
