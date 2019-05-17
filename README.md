@@ -197,6 +197,7 @@ Plugins which affect code.
 - [sucrase](https://github.com/rollup/rollup-plugin-sucrase) - Compile TypeScript, Flow, JSX.
 - [typescript](https://github.com/rollup/rollup-plugin-typescript) - Seamless integration with Typescript.
 - [typescript2](https://github.com/ezolenko/rollup-plugin-typescript2) - Compile TypeScript v2.0+.
+- [lit-element](https://github.com/aelbore/rollup-plugin-inline-lit-element) - Inline External CSS and SASS, including lit-element decorators to plain javascript
 
 ### Workflow
 
