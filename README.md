@@ -95,6 +95,7 @@ and external modules.
 - [stub](https://github.com/eventualbuddha/rollup-plugin-stub) - Stub module.exports at runtime.
 - [ts-paths](https://github.com/bitshiftza/rollup-plugin-ts-paths) – Resolve modules from `tsconfig` paths.
 - [virtual](https://github.com/rollup/rollup-plugin-virtual) - Load modules from memory.
+- [esm-http-resolver](https://github.com/trygve-lie/rollup-plugin-esm-http-resolver) - Resolve ES Modules over http(s).
 
 ### Other File Imports
 
