@@ -131,6 +131,7 @@ Plugins which affect the final output of a bundle.
 - [banner](https://github.com/yingye/rollup-plugin-banner) - Append content before js bundle.
 - [bundleutils](https://github.com/pschroen/rollup-plugin-bundleutils) - Set of commonly used utility functions.
 - [butternut](https://github.com/rollup/rollup-plugin-butternut) - Compress Rollup bundles.
+- [by-output](https://github.com/wmzy/rollup-plugin-by-output) - Apply plugins according to special output option, reduce config and save time.
 - [clear](https://github.com/DongShelton/rollup-plugin-clear) - Clear an output directory before a build.
 - [closure-compiler](https://github.com/ampproject/rollup-plugin-closure-compiler) – Compress Rollup Bundles with Closure Compiler.
 - [copy](https://github.com/meuter/rollup-plugin-copy) - Copy files during a build.
