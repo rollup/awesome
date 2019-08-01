@@ -86,6 +86,7 @@ and external modules.
 - [import-alias](https://github.com/Hedzer/rollup-plugin-import-alias) - Maps an import path to another.
 - [includepaths](https://github.com/dot-build/rollup-plugin-includepaths) – Provide base paths from which to resolve imports.
 - [inject](https://github.com/rollup/rollup-plugin-inject) - Scans for global variables and injects `import` statements.
+- [internal](https://github.com/ashleyw/rollup-plugin-internal) - Explicitly declare dependencies as internal.
 - [legacy](https://github.com/rollup/rollup-plugin-legacy) - Add export statements to plain scripts.
 - [named-directory](https://github.com/frostney/rollup-plugin-named-directory) - Provides shortcuts for colocated modules in directories.
 - [node-builtins](https://github.com/calvinmetcalf/rollup-plugin-node-builtins) - Node builtin modules as ES modules.
