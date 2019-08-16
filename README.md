@@ -127,7 +127,7 @@ Plugins which allow importing other types of files as modules.
 
 Plugins which affect the final output of a bundle.
 
-- [app-utils](https://github.com/Autodesk/rollup-plugin-app-utils) - Common build utilities for i18n, html injects or text replacement, directories preparation and assets copy
+- [app-utils](https://github.com/Autodesk/rollup-plugin-app-utils) - Common build utilities for applications.
 - [babel-minify](https://github.com/Comandeer/rollup-plugin-babel-minify) - Minify a bundle with Babel.
 - [banner](https://github.com/yingye/rollup-plugin-banner) - Append content before js bundle.
 - [bundleutils](https://github.com/pschroen/rollup-plugin-bundleutils) - Set of commonly used utility functions.
