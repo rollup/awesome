@@ -130,6 +130,7 @@ Plugins which affect the final output of a bundle.
 - [babel-minify](https://github.com/Comandeer/rollup-plugin-babel-minify) - Minify a bundle with Babel.
 - [banner](https://github.com/yingye/rollup-plugin-banner) - Append content before js bundle.
 - [bundleutils](https://github.com/pschroen/rollup-plugin-bundleutils) - Set of commonly used utility functions.
+- [bundle-html](https://github.com/haifeng2013/rollup-plugin-bundle-html) - Inject the bundle js/css files as well as external js/css files to html template.
 - [butternut](https://github.com/rollup/rollup-plugin-butternut) - Compress Rollup bundles.
 - [clear](https://github.com/DongShelton/rollup-plugin-clear) - Clear an output directory before a build.
 - [closure-compiler](https://github.com/ampproject/rollup-plugin-closure-compiler) – Compress Rollup Bundles with Closure Compiler.
