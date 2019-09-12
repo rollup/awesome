@@ -19,6 +19,7 @@
 - [notify](https://github.com/MikeKovarik/rollup-plugin-notify) – Display errors as system notifications.
 - [progress](https://github.com/jkuri/rollup-plugin-progress) - Show build progress in the console.
 - [serve](https://github.com/thgh/rollup-plugin-serve) - Development Server in a Plugin.
+- [dev](https://github.com/pearofducks/rollup-plugin-dev) - Development server with additional logging and options.
 - [sizes](https://github.com/tivac/rollup-plugin-sizes) - Display bundle content and size in the console.
 - [size-snapshot](https://github.com/TrySound/rollup-plugin-size-snapshot) - Track bundle size and treeshakability with ease.
 - [visualizer](https://github.com/btd/rollup-plugin-visualizer) - Bundle and dependency visualizer.
