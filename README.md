@@ -122,6 +122,7 @@ Plugins which allow importing other types of files as modules.
 - [vinyl](https://github.com/operandom/rollup-plugin-vinyl) - Import from [Vinyl](https://github.com/gulpjs/vinyl) files
 - [wasm](https://github.com/rollup/rollup-plugin-wasm) - Inlines and imports WebAssembly modules.
 - [yaml](https://github.com/rollup/rollup-plugin-yaml) - Import data from YAML files.
+- [smart-asset](https://github.com/sormy/rollup-plugin-smart-asset) - Import any assets as url using rebase, copy or inline mode. Similar to `url` but has more hashing options and works well together with babel using transform hook.
 
 ### Output
 
