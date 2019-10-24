@@ -210,6 +210,7 @@ Plugins which affect code.
 
 Plugins which affect the Rollup workflow.
 
+- [block](https://github.com/tjenkinson/rollup-plugin-block) – Ensure certain files don't become part of the build.
 - [browsersync](https://github.com/4lejandrito/rollup-plugin-browsersync) – Serves a bundle via [Browsersync](https://browsersync.io/).
 - [browserify-transform](https://www.npmjs.com/package/rollup-plugin-browserify-transform) - Use Browserify transforms in a build.
 - [conditional](https://github.com/AgronKabashi/rollup-plugin-conditional) – Conditionally execute plugins.
