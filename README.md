@@ -142,6 +142,7 @@ Plugins which affect the final output of a bundle.
 - [copy-assets](https://github.com/bengsfort/rollup-plugin-copy-assets) - Copy specified assets to the output directory.
 - [cpy](https://github.com/shrynx/rollup-plugin-cpy) - Easily copy files and folders during a build.
 - [delete](https://github.com/vladshcherbin/rollup-plugin-delete) - Delete files and folders during a build.
+- [emit-ejs](https://github.com/juliendargelos/rollup-plugin-emit-ejs) - Emit files from ejs templates.
 - [espruino](https://github.com/joakim/rollup-plugin-espruino) - Send a bundle to [Espruino](http://www.espruino.com) devices.
 - [filesize](https://github.com/ritz078/rollup-plugin-filesize) - Display the file size of the bundle in the console.
 - [generate-html-template](https://github.com/bengsfort/rollup-plugin-generate-html-template) - Generate an HTML file for a bundle.
