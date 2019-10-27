@@ -216,7 +216,7 @@ Plugins which affect the Rollup workflow.
 - [execute](https://github.com/audinue/rollup-plugin-execute) - Execute shell commands sequentially during a build.
 - [html-entry](https://github.com/leogr/rollup-plugin-html-entry) – Allows use HTML Script Tags as entry points.
 - [jscc](https://github.com/aMarCruz/rollup-plugin-jscc) – Conditional compilation and declaration of ES6 imports.
-- [loadz0r](https://github.com/surma/rollup-plugin-loadz0r) - Code-splitting across Workers and the UI Thread.
+- [off-main-thread](https://github.com/surma/rollup-plugin-off-main-thread) - Use ES6 modules with Web Workers.
 - [make](https://github.com/btmorex/rollup-plugin-make) - Build dependency files suitable for make
 - [multi-entry](https://github.com/rollup/rollup-plugin-multi-entry) - Multiple entry points for a bundle.
 - [run](https://github.com/rollup/rollup-plugin-run) - Run your bundle after it's generated.
