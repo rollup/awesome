@@ -117,6 +117,7 @@ Plugins which allow importing other types of files as modules.
 - [rust](https://github.com/DrSensor/rollup-plugin-rust) - Compile Rust as WebAssembly or a Node.js Add-on.
 - [spritesmith](https://github.com/linjinying/rollup-plugin-sprite) — Convert a set of images into a spritesmith sprite-sheet.
 - [string](https://github.com/TrySound/rollup-plugin-string) – Import text files as strings.
+- [svg-import](https://github.com/bravecow/rollup-plugin-svg-import) — Import SVG files as DOM Node or String
 - [svg-sprite](https://github.com/VladShcherbin/rollup-plugin-svg-sprite) — Import SVG files as an external SVG sprite.
 - [svg-to-symbol](https://github.com/fjc0k/rollup-plugin-svg-to-symbol) - Import SVG files as symbol strings.
 - [svgo](https://github.com/porsager/rollup-plugin-svgo) - Import SVG files as strings
