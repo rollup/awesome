@@ -44,6 +44,7 @@ Plugins which help with code quality.
 
 Plugins for working with CSS.
 
+- [bundle-scss](https://github.com/weizhenye/rollup-plugin-bundle-scss) - Bundle all SCSS imports into one SCSS file.
 - [collect-sass](https://github.com/nathancahill/rollup-plugin-collect-sass) - Compiler SASS files in a single context.
 - [css-only](https://github.com/thgh/rollup-plugin-css-only) – Output plain CSS.
 - [css-porter](https://github.com/RJHwang/rollup-plugin-css-porter) - Combine CSS imports and output to file.
@@ -160,7 +161,7 @@ Plugins which affect the final output of a bundle.
 - [static-site](https://gitlab.com/thekelvinliu/rollup-plugin-static-site) - Generate HTML for a bundle.
 - [terser](https://github.com/TrySound/rollup-plugin-terser) - Minify a bundle using Terser.
 - [uglify](https://github.com/TrySound/rollup-plugin-uglify) - Minify a bundle with UglifyJS.
-- [version-injector](https://github.com/djhouseknecht/rollup-plugin-version-injector) - Inject your package’s version number into static build files. 
+- [version-injector](https://github.com/djhouseknecht/rollup-plugin-version-injector) - Inject your package’s version number into static build files.
 - [zip](https://github.com/mentaljam/rollup-plugin-zip) - Pack all assets into a zip file.
 
 ### Templating
