@@ -185,7 +185,7 @@ Plugins which search for, and replace text in a bundle.
 
 - [ascii](https://github.com/mbostock/rollup-plugin-ascii) – Rewrite non-ASCII characters as string literals.
 - [re](https://github.com/jetiny/rollup-plugin-re) – Replace text with Regular Expressions.
-- [replace](https://github.com/rollup/rollup-plugin-replace) – Replace occurrences of a set of strings.
+- [replace](https://github.com/rollup/plugins/tree/master/packages/replace) – Replace occurrences of a set of strings.
 - [strip-code](https://github.com/se-panfilov/rollup-plugin-strip-code) - Remove text with Regular Expressions.
 
 ### Transpilation
