@@ -21,6 +21,7 @@ Plugins created and maintained by the Rollup organization.
 - [buble](https://github.com/rollup/plugins/tree/master/packages/buble) – Transpile with Bublé.
 - [commonjs](https://github.com/rollup/rollup-plugin-commonjs) - Convert CommonJS modules to ES Modules.
 - [dsv](https://github.com/rollup/plugins/tree/master/packages/dsv) - Convert CSV and TSV files into JavaScript modules.
+- [html](https://github.com/rollup/plugins/tree/master/packages/html) - Creates HTML files to serve Rollup bundles
 - [image](https://github.com/rollup/plugins/tree/master/packages/image) - Import JPG, PNG, GIF and SVG images.
 - [inject](https://github.com/rollup/plugins/tree/master/packages/inject) - Scans for global variables and injects `import` statements.
 - [json](https://github.com/rollup/plugins/tree/master/packages/json) - Convert JSON files to ES Modules.
