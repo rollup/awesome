@@ -12,6 +12,31 @@
 
 ## Plugins
 
+### Core Plugins
+
+Plugins created and maintained by the Rollup organization.
+
+- [alias](https://github.com/rollup/plugins/tree/master/packages/alias) - Alias modules in a build.
+- [babel](https://github.com/rollup/rollup-plugin-babel) - Seamless integration with Babel.
+- [buble](https://github.com/rollup/plugins/tree/master/packages/buble) – Transpile with Bublé.
+- [commonjs](https://github.com/rollup/rollup-plugin-commonjs) - Convert CommonJS modules to ES Modules.
+- [dsv](https://github.com/rollup/plugins/tree/master/packages/dsv) - Convert CSV and TSV files into JavaScript modules.
+- [image](https://github.com/rollup/plugins/tree/master/packages/image) - Import JPG, PNG, GIF and SVG images.
+- [inject](https://github.com/rollup/plugins/tree/master/packages/inject) - Scans for global variables and injects `import` statements.
+- [json](https://github.com/rollup/plugins/tree/master/packages/json) - Convert JSON files to ES Modules.
+- [legacy](https://github.com/rollup/plugins/tree/master/packages/legacy) - Add export statements to plain scripts.
+- [multi-entry](https://github.com/rollup/plugins/tree/master/packages/multi-entry) - Multiple entry points for a bundle.
+- [node-resolve](https://github.com/rollup/plugins/tree/master/packages/node-resolve) - Use the Node resolution algorithm.
+- [replace](https://github.com/rollup/plugins/tree/master/packages/replace) – Replace occurrences of a set of strings.
+- [run](https://github.com/rollup/plugins/tree/master/packages/run) - Run your bundle after it's generated.
+- [strip](https://github.com/rollup/plugins/tree/master/packages/strip) - Remove expressions from code.
+- [sucrase](https://github.com/rollup/rollup-plugin-sucrase) - Compile TypeScript, Flow, JSX.
+- [typescript](https://github.com/rollup/plugins/tree/master/packages/typescript) - Seamless integration with Typescript.
+- [url](https://github.com/rollup/plugins/tree/master/packages/url) - Inline import files as data-URIs.
+- [virtual](https://github.com/rollup/plugins/tree/master/packages/virtual) - Load modules from memory.
+- [wasm](https://github.com/rollup/plugins/tree/master/packages/wasm) - Inlines and imports WebAssembly modules.
+- [yaml](https://github.com/rollup/plugins/tree/master/packages/yaml) - Import data from YAML files.
+
 ### All-Purpose Awesome
 
 - [graph](https://github.com/ondras/rollup-plugin-graph) – Generates a module dependency graph.
@@ -36,7 +61,6 @@ Plugins which help with code quality.
 - [flow-entry](https://github.com/swansontec/rollup-plugin-flow-entry) - Export Flow types from a bundle.
 - [istanbul](https://github.com/artberri/rollup-plugin-istanbul) - Seamless integration with Istanbul.
 - [sass-lint](https://github.com/kopacki/rollup-plugin-sass-lint) - Lint SCSS files
-- [strip](https://github.com/rollup/rollup-plugin-strip) - Remove expressions from code.
 - [stylint](https://github.com/sandark7/rollup-plugin-stylint) - Lint Stylus files.
 - [unassert](https://gitlab.com/IvanSanchez/rollup-plugin-unassert) - Remove assertion calls.
 
@@ -64,9 +88,8 @@ Plugins for working with awesome JavaScript frameworks.
 
 - [angular](https://github.com/cebor/rollup-plugin-angular) - Angular2 template and styles inliner.
 - [jsx](https://github.com/konsumer/rollup-plugin-jsx) - Compile React JSX and JSX-like components.
-- [ractive](https://github.com/rollup/rollup-plugin-ractive) - Precompile Ractive components.
 - [riot](https://github.com/riot/rollup-plugin-riot) - Riot.js tagfile support.
-- [svelte](https://github.com/rollup/rollup-plugin-svelte) — Compile Svelte components.
+- [svelte](https://github.com/sveltejs/rollup-plugin-svelte) — Compile Svelte components.
 - [vue](https://github.com/vuejs/rollup-plugin-vue) - Compile Vue components.
 - [vue-inline-svg](https://github.com/e-e-e/rollup-plugin-vue-inline-svg) - Import SVG files as Vue components.
 
@@ -75,12 +98,10 @@ Plugins for working with awesome JavaScript frameworks.
 Plugins which control the behaviour of modules: dependencies, imports, exports,
 and external modules.
 
-- [alias](https://github.com/rollup/rollup-plugin-alias) - Alias modules in a build.
 - [amd](https://github.com/piuccio/rollup-plugin-amd) - Convert AMD modules to ES6.
 - [async-define](https://github.com/tes/rollup-plugin-async-define) - Wrap an AMD bundle with async-define.
 - [bower-resolve](https://github.com/mjeanroy/rollup-plugin-bower-resolve) – Use Bower the resolution algorithm.
 - [cjs-es](https://github.com/eight04/rollup-plugin-cjs-es) - Convert CommonJS modules without proxying and reassignment.
-- [commonjs](https://github.com/rollup/rollup-plugin-commonjs) - Convert CommonJS modules to ES Modules.
 - [consts](https://github.com/NotWoods/rollup-plugin-consts) - Import constants at build time.
 - [external-globals](https://github.com/eight04/rollup-plugin-external-globals) - Replace imported bindings with a global variable.
 - [force-binding](https://github.com/tehvgg/rollup-plugin-force-binding) - Composes multi-entry and node-resolve to prevent duplicated imports.
@@ -88,31 +109,24 @@ and external modules.
 - [ignore](https://github.com/alexlur/rollup-plugin-ignore) - Ignore modules by replacing with empty objects.
 - [import-alias](https://github.com/Hedzer/rollup-plugin-import-alias) - Maps an import path to another.
 - [includepaths](https://github.com/dot-build/rollup-plugin-includepaths) – Provide base paths from which to resolve imports.
-- [inject](https://github.com/rollup/rollup-plugin-inject) - Scans for global variables and injects `import` statements.
-- [legacy](https://github.com/rollup/rollup-plugin-legacy) - Add export statements to plain scripts.
 - [named-directory](https://github.com/frostney/rollup-plugin-named-directory) - Provides shortcuts for colocated modules in directories.
 - [node-builtins](https://github.com/calvinmetcalf/rollup-plugin-node-builtins) - Node builtin modules as ES modules.
 - [node-globals](https://github.com/calvinmetcalf/rollup-plugin-node-globals) - Injects node globals.
-- [node-resolve](https://github.com/rollup/rollup-plugin-node-resolve) - Use the Node resolution algorithm.
 - [node-resolve-angular](https://github.com/OasisDigital/rollup-plugin-node-resolve-angular) - Node module resolution support for Angular 4+.
 - [stub](https://github.com/eventualbuddha/rollup-plugin-stub) - Stub module.exports at runtime.
 - [ts-paths](https://github.com/bitshiftza/rollup-plugin-ts-paths) – Resolve modules from `tsconfig` paths.
-- [virtual](https://github.com/rollup/rollup-plugin-virtual) - Load modules from memory.
 
 ### Other File Imports
 
 Plugins which allow importing other types of files as modules.
 
-- [dsv](https://github.com/rollup/rollup-plugin-dsv) - Convert CSV and TSV files into JavaScript modules.
 - [file-as-blob](https://gitlab.com/IvanSanchez/rollup-plugin-file-as-blob) – Import a file as a `blob:` URL.
 - [glsl](https://github.com/vwochnik/rollup-plugin-glsl) - Import GLSL shaders as compressed strings.
 - [glslify](https://github.com/glslify/rollup-plugin-glslify) - Import GLSL strings with [glslify](https://github.com/glslify/glslify).
 - [gltf](https://github.com/bengsfort/rollup-plugin-gltf) - Import glTF 3d models as a URI or inlined JSON.
 - [html](https://github.com/bdadam/rollup-plugin-html) - Import html files as strings.
 - [hypothetical](https://github.com/Permutatrix/rollup-plugin-hypothetical) - Import modules from a virtual filesystem.
-- [image](https://github.com/rollup/rollup-plugin-image) - Import JPG, PNG, GIF and SVG images.
 - [imagemin](https://github.com/malchata/rollup-plugin-imagemin) - Optimize images with [imagemin](https://github.com/imagemin/imagemin).
-- [json](https://github.com/rollup/rollup-plugin-json) - Convert JSON files to ES Modules.
 - [markdown](https://github.com/vijithassar/rollup-plugin-markdown) - Import code from fenced code blocks in Markdown.
 - [md](https://github.com/xiaofuzi/rollup-plugin-md) - Import and compile markdown files.
 - [rust](https://github.com/DrSensor/rollup-plugin-rust) - Compile Rust as WebAssembly or a Node.js Add-on.
@@ -121,10 +135,7 @@ Plugins which allow importing other types of files as modules.
 - [svg-sprite](https://github.com/VladShcherbin/rollup-plugin-svg-sprite) — Import SVG files as an external SVG sprite.
 - [svg-to-symbol](https://github.com/fjc0k/rollup-plugin-svg-to-symbol) - Import SVG files as symbol strings.
 - [svgo](https://github.com/porsager/rollup-plugin-svgo) - Import SVG files as strings
-- [url](https://github.com/rollup/rollup-plugin-url) - Inline import files as data-URIs.
 - [vinyl](https://github.com/operandom/rollup-plugin-vinyl) - Import from [Vinyl](https://github.com/gulpjs/vinyl) files
-- [wasm](https://github.com/rollup/rollup-plugin-wasm) - Inlines and imports WebAssembly modules.
-- [yaml](https://github.com/rollup/rollup-plugin-yaml) - Import data from YAML files.
 - [smart-asset](https://github.com/sormy/rollup-plugin-smart-asset) - Import any assets as url using rebase, copy or inline mode. Similar to `url` but has more hashing options and works well together with babel using transform hook.
 
 ### Output
@@ -136,7 +147,6 @@ Plugins which affect the final output of a bundle.
 - [banner](https://github.com/yingye/rollup-plugin-banner) - Append content before js bundle.
 - [bundleutils](https://github.com/pschroen/rollup-plugin-bundleutils) - Set of commonly used utility functions.
 - [bundle-html](https://github.com/haifeng2013/rollup-plugin-bundle-html) - Inject the bundle js/css files as well as external js/css files to html template.
-- [butternut](https://github.com/rollup/rollup-plugin-butternut) - Compress Rollup bundles.
 - [by-output](https://github.com/wmzy/rollup-plugin-by-output) - Apply plugins according to special output option, reduce config and save time.
 - [clear](https://github.com/DongShelton/rollup-plugin-clear) - Clear an output directory before a build.
 - [closure-compiler](https://github.com/ampproject/rollup-plugin-closure-compiler) – Compress Rollup Bundles with Closure Compiler.
@@ -186,7 +196,6 @@ Plugins which search for, and replace text in a bundle.
 
 - [ascii](https://github.com/mbostock/rollup-plugin-ascii) – Rewrite non-ASCII characters as string literals.
 - [re](https://github.com/jetiny/rollup-plugin-re) – Replace text with Regular Expressions.
-- [replace](https://github.com/rollup/plugins/tree/master/packages/replace) – Replace occurrences of a set of strings.
 - [strip-code](https://github.com/se-panfilov/rollup-plugin-strip-code) - Remove text with Regular Expressions.
 
 ### Transpilation
@@ -194,8 +203,6 @@ Plugins which search for, and replace text in a bundle.
 Plugins which affect code.
 
 - [async](https://github.com/leebyron/rollup-plugin-async) - Replace `async` functions with generators.
-- [babel](https://github.com/rollup/rollup-plugin-babel) - Seamless integration with Babel.
-- [buble](https://github.com/rollup/rollup-plugin-buble) – Transpile with Bublé.
 - [bucklescript](https://github.com/shrynx/rollup-plugin-bucklescript) - Compile ReasonML / OCaml.
 - [coffee-react](https://github.com/N1kto/rollup-plugin-coffee-react) - Compile CJSX and CoffeeScript.
 - [coffee-script](https://github.com/lautis/rollup-plugin-coffee-script) – Compile CoffeeScript.
@@ -205,8 +212,6 @@ Plugins which affect code.
 - [pegjs](https://github.com/cameronhunter/rollup-plugin-pegjs) - Import PEG.js grammars as parsers.
 - [purs](https://github.com/Pauan/rollup-plugin-purs) - Compile PureScript.
 - [regenerator](https://github.com/noTruth/rollup-plugin-regenerator) - Replace `async` functions with ES5 Promise functions.
-- [sucrase](https://github.com/rollup/rollup-plugin-sucrase) - Compile TypeScript, Flow, JSX.
-- [typescript](https://github.com/rollup/rollup-plugin-typescript) - Seamless integration with Typescript.
 - [typescript2](https://github.com/ezolenko/rollup-plugin-typescript2) - Compile TypeScript v2.0+.
 
 ### Workflow
@@ -221,14 +226,19 @@ Plugins which affect the Rollup workflow.
 - [jscc](https://github.com/aMarCruz/rollup-plugin-jscc) – Conditional compilation and declaration of ES6 imports.
 - [off-main-thread](https://github.com/surma/rollup-plugin-off-main-thread) - Use ES6 modules with Web Workers.
 - [make](https://github.com/btmorex/rollup-plugin-make) - Build dependency files suitable for make
-- [multi-entry](https://github.com/rollup/rollup-plugin-multi-entry) - Multiple entry points for a bundle.
-- [run](https://github.com/rollup/rollup-plugin-run) - Run your bundle after it's generated.
 - [sourcemaps](https://github.com/maxdavidson/rollup-plugin-sourcemaps) – Load external source maps from URIs.
 
 ## Packages
 
-- [fruit](https://github.com/jaebradley/fruit#readme) - Build a Rollup boilerplate in seconds.
+### Core Packages
+
+Packages created and maintained by the Rollup organization.
+
 - [rollup-pluginutils](https://github.com/rollup/rollup-pluginutils) - Functions commonly used by Rollup plugins.
+
+### Community Packages
+
+- [fruit](https://github.com/jaebradley/fruit#readme) - Build a Rollup boilerplate in seconds.
 - [rollup-starter-app](https://github.com/rollup/rollup-starter-app) - Create a bare-bones application using Rollup.
 - [rollup-starter-lib](https://github.com/rollup/rollup-starter-lib) - Create a bare-bones library using Rollup.
 - [rollup-stream](https://github.com/permutatrix/rollup-stream) - A wrapper for streaming Rollup results.
