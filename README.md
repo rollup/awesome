@@ -142,7 +142,7 @@ Plugins which affect the final output of a bundle.
 - [closure-compiler](https://github.com/ampproject/rollup-plugin-closure-compiler) – Compress Rollup Bundles with Closure Compiler.
 - [copy](https://github.com/meuter/rollup-plugin-copy) - Copy files during a build.
 - [copy-assets](https://github.com/bengsfort/rollup-plugin-copy-assets) - Copy specified assets to the output directory.
-- [cpy](https://github.com/shrynx/rollup-plugin-cpy) - Easily copy files and folders during a build.
+- [cpy](https://github.com/paulmelnikow/rollup-plugin-cpy) - Easily copy files and folders during a build.
 - [delete](https://github.com/vladshcherbin/rollup-plugin-delete) - Delete files and folders during a build.
 - [emit-ejs](https://github.com/juliendargelos/rollup-plugin-emit-ejs) - Emit files from ejs templates.
 - [espruino](https://github.com/joakim/rollup-plugin-espruino) - Send a bundle to [Espruino](http://www.espruino.com) devices.
