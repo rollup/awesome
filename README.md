@@ -213,6 +213,7 @@ Plugins which affect code.
 - [pegjs](https://github.com/cameronhunter/rollup-plugin-pegjs) - Import PEG.js grammars as parsers.
 - [purs](https://github.com/Pauan/rollup-plugin-purs) - Compile PureScript.
 - [regenerator](https://github.com/noTruth/rollup-plugin-regenerator) - Replace `async` functions with ES5 Promise functions.
+- [ts](https://github.com/wessberg/rollup-plugin-ts) - Transpile with Babel, TypeScript, or both, while respecting Browserslist and TypeScript declarations.
 - [typescript2](https://github.com/ezolenko/rollup-plugin-typescript2) - Compile TypeScript v2.0+.
 
 ### Workflow
