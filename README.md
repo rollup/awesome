@@ -222,6 +222,7 @@ Plugins which affect the Rollup workflow.
 
 - [browsersync](https://github.com/4lejandrito/rollup-plugin-browsersync) – Serves a bundle via [Browsersync](https://browsersync.io/).
 - [browserify-transform](https://www.npmjs.com/package/rollup-plugin-browserify-transform) - Use Browserify transforms in a build.
+- [command](https://github.com/Vehmloewff/rollup-plugin-command) - Run commands and call functions when bundles are generated.
 - [conditional](https://github.com/AgronKabashi/rollup-plugin-conditional) – Conditionally execute plugins.
 - [execute](https://github.com/audinue/rollup-plugin-execute) - Execute shell commands sequentially during a build.
 - [html-entry](https://github.com/leogr/rollup-plugin-html-entry) – Allows use HTML Script Tags as entry points.
