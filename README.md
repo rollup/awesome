@@ -19,7 +19,7 @@ Plugins created and maintained by the Rollup organization.
 - [alias](https://github.com/rollup/plugins/tree/master/packages/alias) - Alias modules in a build.
 - [babel](https://github.com/rollup/rollup-plugin-babel) - Seamless integration with Babel.
 - [buble](https://github.com/rollup/plugins/tree/master/packages/buble) – Transpile with Bublé.
-- [commonjs](https://github.com/rollup/rollup-plugin-commonjs) - Convert CommonJS modules to ES Modules.
+- [commonjs](https://github.com/rollup/plugins/tree/master/packages/commonjs) - Convert CommonJS modules to ES Modules.
 - [dsv](https://github.com/rollup/plugins/tree/master/packages/dsv) - Convert CSV and TSV files into JavaScript modules.
 - [html](https://github.com/rollup/plugins/tree/master/packages/html) - Creates HTML files to serve Rollup bundles
 - [image](https://github.com/rollup/plugins/tree/master/packages/image) - Import JPG, PNG, GIF and SVG images.
@@ -31,7 +31,7 @@ Plugins created and maintained by the Rollup organization.
 - [replace](https://github.com/rollup/plugins/tree/master/packages/replace) – Replace occurrences of a set of strings.
 - [run](https://github.com/rollup/plugins/tree/master/packages/run) - Run your bundle after it's generated.
 - [strip](https://github.com/rollup/plugins/tree/master/packages/strip) - Remove expressions from code.
-- [sucrase](https://github.com/rollup/rollup-plugin-sucrase) - Compile TypeScript, Flow, JSX.
+- [sucrase](https://github.com/rollup/plugins/tree/master/packages/sucrase) - Compile TypeScript, Flow, JSX.
 - [typescript](https://github.com/rollup/plugins/tree/master/packages/typescript) - Seamless integration with Typescript.
 - [url](https://github.com/rollup/plugins/tree/master/packages/url) - Inline import files as data-URIs.
 - [virtual](https://github.com/rollup/plugins/tree/master/packages/virtual) - Load modules from memory.
@@ -236,7 +236,7 @@ Plugins which affect the Rollup workflow.
 
 Packages created and maintained by the Rollup organization.
 
-- [rollup-pluginutils](https://github.com/rollup/rollup-pluginutils) - Functions commonly used by Rollup plugins.
+- [@rollup/pluginutils](https://github.com/rollup/plugins/tree/master/packages/pluginutils) - Functions commonly used by Rollup plugins.
 
 ### Community Packages
 
