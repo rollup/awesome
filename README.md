@@ -136,6 +136,7 @@ Plugins which allow importing other types of files as modules.
 - [svg-sprite](https://github.com/VladShcherbin/rollup-plugin-svg-sprite) — Import SVG files as an external SVG sprite.
 - [svg-to-symbol](https://github.com/fjc0k/rollup-plugin-svg-to-symbol) - Import SVG files as symbol strings.
 - [svgo](https://github.com/porsager/rollup-plugin-svgo) - Import SVG files as strings
+- [svg-path](https://github.com/erkanunluturk/rollup-plugin-svg-path) - Converting SVG files to path
 - [vinyl](https://github.com/operandom/rollup-plugin-vinyl) - Import from [Vinyl](https://github.com/gulpjs/vinyl) files
 - [smart-asset](https://github.com/sormy/rollup-plugin-smart-asset) - Import any assets as url using rebase, copy or inline mode. Similar to `url` but has more hashing options and works well together with babel using transform hook.
 
