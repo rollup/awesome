@@ -7,12 +7,20 @@
   closed (and we'd rather not do that).
 
   Maintainers may disregard this template for organizational Pull Requests.
+  
+  !!!! ATTENTION !!!!
+  
+  Due to a large number of submissions from folks who have not read or ignored the
+  Contributing Guidelines, any Pull Request which does not adhere to the guidelines
+  -- WILL BE CLOSED WITHOUT COMMENT --
+  Please, we beg you, take the time to read the Contributing Guidelines. 
+  
+  !!!! ATTENTION !!!!
 -->
 
 Awesome Contribution Checklist:
 
-<!-- *** If you do not abide by the Conntributing Guidelines, your Pull Request WILL BE CLOSED -->
-
+<!-- DO NOT CHECK THE NEXT BOX IF YOU HAVE NOT READ THE GUIDELINES -->
 - [ ] I have read, and re-read the [Contributing Guidelines](https://github.com/rollup/awesome/blob/master/.github/CONTRIBUTING.md)
 - [ ] I have searched to ensure the suggested item doesn't exist on this list
 - [ ] This PR contains only one item
