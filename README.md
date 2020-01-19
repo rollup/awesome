@@ -130,6 +130,7 @@ Plugins which allow importing other types of files as modules.
 - [imagemin](https://github.com/malchata/rollup-plugin-imagemin) - Optimize images with [imagemin](https://github.com/imagemin/imagemin).
 - [markdown](https://github.com/vijithassar/rollup-plugin-markdown) - Import code from fenced code blocks in Markdown.
 - [md](https://github.com/xiaofuzi/rollup-plugin-md) - Import and compile markdown files.
+- [mjml](https://github.com/daankauwenberg/rollup-plugin-mjml) - Convert MJML into responsive email templates.
 - [rust](https://github.com/DrSensor/rollup-plugin-rust) - Compile Rust as WebAssembly or a Node.js Add-on.
 - [spritesmith](https://github.com/linjinying/rollup-plugin-sprite) — Convert a set of images into a spritesmith sprite-sheet.
 - [string](https://github.com/TrySound/rollup-plugin-string) – Import text files as strings.
