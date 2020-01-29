@@ -106,6 +106,7 @@ and external modules.
 - [consts](https://github.com/NotWoods/rollup-plugin-consts) - Import constants at build time.
 - [external-globals](https://github.com/eight04/rollup-plugin-external-globals) - Replace imported bindings with a global variable.
 - [force-binding](https://github.com/tehvgg/rollup-plugin-force-binding) - Composes multi-entry and node-resolve to prevent duplicated imports.
+- [git-version](https://gitlab.com/IvanSanchez/rollup-plugin-git-version) - Inject git information when importing version from package.json.
 - [glob-import](https://github.com/kei-ito/rollup-plugin-glob-import) - Glob support for import statements.
 - [ignore](https://github.com/alexlur/rollup-plugin-ignore) - Ignore modules by replacing with empty objects.
 - [import-alias](https://github.com/Hedzer/rollup-plugin-import-alias) - Maps an import path to another.
