@@ -82,7 +82,7 @@ Plugins for working with CSS.
 - [scss](https://github.com/thgh/rollup-plugin-scss) - Compile SASS and CSS.
 - [stylus-css-modules](https://github.com/mtojo/rollup-plugin-stylus-css-modules) – Compile Stylus and inject CSS modules
 - [sass-variables](https://github.com/gmfun/rollup-plugin-sass-variables) - Import SASS variables as Objects.
-- [styles](https://github.com/Anidetrix/rollup-plugin-styles) - Universal plugin for styles in Rollup: PostCSS, Sass, Less, Stylus and more.
+- [styles](https://github.com/Anidetrix/rollup-plugin-styles) - Universal plugin for styles: PostCSS, Sass, Less, Stylus and more.
 
 ### Frameworks
 
