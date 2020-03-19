@@ -116,6 +116,7 @@ and external modules.
 - [node-resolve-angular](https://github.com/OasisDigital/rollup-plugin-node-resolve-angular) - Node module resolution support for Angular 4+.
 - [stub](https://github.com/eventualbuddha/rollup-plugin-stub) - Stub module.exports at runtime.
 - [ts-paths](https://github.com/bitshiftza/rollup-plugin-ts-paths) – Resolve modules from `tsconfig` paths.
+- [OMT](https://github.com/surma/rollup-plugin-off-main-thread) - Allows you to use AMD and adds support for importing modules in workes
 
 ### Other File Imports
 
