@@ -166,7 +166,7 @@ Plugins which affect the final output of a bundle.
 - [iife](https://github.com/eight04/rollup-plugin-iife) - Convert ES modules to Immediately Invoked Function Expressions.
 - [license](https://github.com/mjeanroy/rollup-plugin-license) - Add Licensing to a bundle.
 - [live-reload](https://github.com/thgh/rollup-plugin-livereload) - Live reloading for a bundle.
-- [manifest-json](https://github.com/adamzerella/rollup-plugin-manifest-json) - Generate an `manifest.json` file for a PWA.
+- [manifest-json](https://github.com/adamzerella/rollup-plugin-manifest-json) - Generate a `manifest.json` file for a PWA.
 - [output-manifest](https://github.com/shuizhongyueming/rollup-plugin-output-manifest) - Generating a chunk manifest.
 - [preserve-shebang](https://github.com/developit/rollup-plugin-preserve-shebang) - Preserves leading shebang in a build entry.
 - [prettier](https://github.com/mjeanroy/rollup-plugin-prettier) - Run prettier on a bundle.
