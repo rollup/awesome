@@ -114,7 +114,6 @@ and external modules.
 - [node-builtins](https://github.com/calvinmetcalf/rollup-plugin-node-builtins) - Node builtin modules as ES modules.
 - [node-globals](https://github.com/calvinmetcalf/rollup-plugin-node-globals) - Injects node globals.
 - [node-resolve-angular](https://github.com/OasisDigital/rollup-plugin-node-resolve-angular) - Node module resolution support for Angular 4+.
-- [stub](https://github.com/eventualbuddha/rollup-plugin-stub) - Stub module.exports at runtime.
 - [ts-paths](https://github.com/bitshiftza/rollup-plugin-ts-paths) – Resolve modules from `tsconfig` paths.
 
 ### Other File Imports
