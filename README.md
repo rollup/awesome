@@ -178,7 +178,7 @@ Plugins which affect the final output of a bundle.
 - [uglify](https://github.com/TrySound/rollup-plugin-uglify) - Minify a bundle with UglifyJS.
 - [version-injector](https://github.com/djhouseknecht/rollup-plugin-version-injector) - Inject your package’s version number into static build files.
 - [zip](https://github.com/mentaljam/rollup-plugin-zip) - Pack all assets into a zip file.
-- [concatFiles](https://github.com/kpulkit29/rollup-plugin-concatfiles) - Plugin to concatenate files after bundle generation.
+- [concatfiles](https://github.com/kpulkit29/rollup-plugin-concatfiles) - Concatenate files to the generated output or any other file in general.
 
 ### Templating
 
