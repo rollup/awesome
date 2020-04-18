@@ -153,6 +153,7 @@ Plugins which affect the final output of a bundle.
 - [by-output](https://github.com/wmzy/rollup-plugin-by-output) - Apply plugins according to special output option, reduce config and save time.
 - [clear](https://github.com/DongShelton/rollup-plugin-clear) - Clear an output directory before a build.
 - [closure-compiler](https://github.com/ampproject/rollup-plugin-closure-compiler) – Compress Rollup Bundles with Closure Compiler.
+- [concatfiles](https://github.com/kpulkit29/rollup-plugin-concatfiles) - Concatenate files to bundle or other files.
 - [copy](https://github.com/meuter/rollup-plugin-copy) - Copy files during a build.
 - [copy-assets](https://github.com/bengsfort/rollup-plugin-copy-assets) - Copy specified assets to the output directory.
 - [cpy](https://github.com/paulmelnikow/rollup-plugin-cpy) - Easily copy files and folders during a build.
@@ -178,7 +179,6 @@ Plugins which affect the final output of a bundle.
 - [uglify](https://github.com/TrySound/rollup-plugin-uglify) - Minify a bundle with UglifyJS.
 - [version-injector](https://github.com/djhouseknecht/rollup-plugin-version-injector) - Inject your package’s version number into static build files.
 - [zip](https://github.com/mentaljam/rollup-plugin-zip) - Pack all assets into a zip file.
-- [concatfiles](https://github.com/kpulkit29/rollup-plugin-concatfiles) - Concatenate files to the generated output or any other file in general.
 
 ### Templating
 
