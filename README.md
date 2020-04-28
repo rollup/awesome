@@ -115,6 +115,7 @@ and external modules.
 - [node-globals](https://github.com/calvinmetcalf/rollup-plugin-node-globals) - Injects node globals.
 - [node-resolve-angular](https://github.com/OasisDigital/rollup-plugin-node-resolve-angular) - Node module resolution support for Angular 4+.
 - [ts-paths](https://github.com/bitshiftza/rollup-plugin-ts-paths) – Resolve modules from `tsconfig` paths.
+- [web-worker-loader](https://github.com/darionco/rollup-plugin-web-worker-loader) - Package Workers for NodeJS and the browser.
 
 ### Other File Imports
 
