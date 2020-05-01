@@ -63,7 +63,7 @@ Plugins which help with code quality.
 - [istanbul](https://github.com/artberri/rollup-plugin-istanbul) - Seamless integration with Istanbul.
 - [sass-lint](https://github.com/kopacki/rollup-plugin-sass-lint) - Lint SCSS files
 - [stylint](https://github.com/sandark7/rollup-plugin-stylint) - Lint Stylus files.
-- [unassert](https://gitlab.com/IvanSanchez/rollup-plugin-unassert) - Remove assertion calls.
+- [unassert](https://github.com/unassert-js/rollup-plugin-unassert) - Remove assertion calls.
 
 ### CSS
 
