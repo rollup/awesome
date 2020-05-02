@@ -80,7 +80,7 @@ Plugins for working with CSS.
 - [postcss](https://github.com/egoist/rollup-plugin-postcss) - Seamless integration with PostCSS.
 - [sass](https://github.com/differui/rollup-plugin-sass#readme) - SASS integration for a bundle.
 - [scss](https://github.com/thgh/rollup-plugin-scss) - Compile SASS and CSS.
-- [styles](https://github.com/Anidetrix/rollup-plugin-styles) - Universal Rollup plugin for styles: PostCSS, Sass, Less, Stylus and more.
+- [styles](https://github.com/Anidetrix/rollup-plugin-styles) - Universal plugin for styles: PostCSS, Sass, Less, Stylus and more.
 - [stylus-css-modules](https://github.com/mtojo/rollup-plugin-stylus-css-modules) – Compile Stylus and inject CSS modules
 - [sass-variables](https://github.com/gmfun/rollup-plugin-sass-variables) - Import SASS variables as Objects.
 
