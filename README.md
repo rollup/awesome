@@ -40,6 +40,7 @@ Plugins created and maintained by the Rollup organization.
 
 ### All-Purpose Awesome
 
+- [content](https://github.com/stalniy/rollup-plugin-content) - Generates assets out of markdown (and not only) files to be used as content for custom static web site.
 - [graph](https://github.com/ondras/rollup-plugin-graph) – Generates a module dependency graph.
 - [nollup](https://github.com/PepsRyuu/nollup) - Rollup-compatible development bundler providing Hot Module Replacement.
 - [notify](https://github.com/MikeKovarik/rollup-plugin-notify) – Display errors as system notifications.
