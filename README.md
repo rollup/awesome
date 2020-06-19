@@ -108,6 +108,7 @@ and external modules.
 - [external-globals](https://github.com/eight04/rollup-plugin-external-globals) - Replace imported bindings with a global variable.
 - [force-binding](https://github.com/tehvgg/rollup-plugin-force-binding) - Composes multi-entry and node-resolve to prevent duplicated imports.
 - [glob-import](https://github.com/kei-ito/rollup-plugin-glob-import) - Glob support for import statements.
+- [hoist-import-deps](https://github.com/vikerman/rollup-plugin-hoist-import-deps) - Avoid waterfalls when dynamically importing modules by hoisting import dependencies.
 - [ignore](https://github.com/alexlur/rollup-plugin-ignore) - Ignore modules by replacing with empty objects.
 - [import-alias](https://github.com/Hedzer/rollup-plugin-import-alias) - Maps an import path to another.
 - [includepaths](https://github.com/dot-build/rollup-plugin-includepaths) – Provide base paths from which to resolve imports.
