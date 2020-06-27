@@ -57,6 +57,7 @@ Plugins which help with code quality.
 - [analyzer](https://github.com/doesdev/rollup-plugin-analyzer) - Statistics and Metrics for a bundle.
 - [cleanup](https://github.com/aMarCruz/rollup-plugin-cleanup) – Remove and modify code based on an opinionated ruleset.
 - [eslint](https://github.com/TrySound/rollup-plugin-eslint) - verify entry and imported scripts
+- [eslint (7+)](https://github.com/robinloeffel/rollup-plugin-eslint) - Lint your Rollup bundles with ESLint. 🐝
 - [eslint-bundle](https://github.com/nikolay-borzov/rollup-plugin-eslint-bundle) - Lint bundles with ESLint.
 - [flow](https://github.com/leebyron/rollup-plugin-flow) - Remove Flow type annotations.
 - [flow-entry](https://github.com/swansontec/rollup-plugin-flow-entry) - Export Flow types from a bundle.
