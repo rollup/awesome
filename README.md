@@ -250,3 +250,4 @@ Packages created and maintained by the Rollup organization.
 - [rollup-starter-app](https://github.com/rollup/rollup-starter-app) - Create a bare-bones application using Rollup.
 - [rollup-starter-lib](https://github.com/rollup/rollup-starter-lib) - Create a bare-bones library using Rollup.
 - [rollup-stream](https://github.com/permutatrix/rollup-stream) - A wrapper for streaming Rollup results.
+- [grunt-rollup](https://github.com/chrisprice/grunt-rollup) - Grunt plugin for Rollup
