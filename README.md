@@ -17,7 +17,7 @@
 Plugins created and maintained by the Rollup organization.
 
 - [alias](https://github.com/rollup/plugins/tree/master/packages/alias) - Alias modules in a build.
-- [babel](https://github.com/rollup/rollup-plugin-babel) - Seamless integration with Babel.
+- [babel](https://github.com/rollup/plugins/tree/master/packages/babel) - Seamless integration with Babel.
 - [buble](https://github.com/rollup/plugins/tree/master/packages/buble) – Transpile with Bublé.
 - [commonjs](https://github.com/rollup/plugins/tree/master/packages/commonjs) - Convert CommonJS modules to ES Modules.
 - [dsv](https://github.com/rollup/plugins/tree/master/packages/dsv) - Convert CSV and TSV files into JavaScript modules.
