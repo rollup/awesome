@@ -116,8 +116,8 @@ and external modules.
 - [node-globals](https://github.com/calvinmetcalf/rollup-plugin-node-globals) - Injects node globals.
 - [node-resolve-angular](https://github.com/OasisDigital/rollup-plugin-node-resolve-angular) - Node module resolution support for Angular 4+.
 - [ts-paths](https://github.com/bitshiftza/rollup-plugin-ts-paths) – Resolve modules from `tsconfig` paths.
+- [skypack-resolver](https://github.com/vinicius73/rollup-plugin-pika-resolver) - Generate the bundle of your project using [Skypack CDN](https://skypack.dev/) for external dependencies.
 - [web-worker-loader](https://github.com/darionco/rollup-plugin-web-worker-loader) - Package Workers for NodeJS and the browser.
-- [pika-resolver](https://github.com/vinicius73/rollup-plugin-pika-resolver) - Generate the bundle of your project using [Pika CDN](https://www.pika.dev/cdn) for external dependencies.
 
 ### Other File Imports
 
