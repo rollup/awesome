@@ -44,6 +44,7 @@ Plugins created and maintained by the Rollup organization.
 - [nollup](https://github.com/PepsRyuu/nollup) - Rollup-compatible development bundler providing Hot Module Replacement.
 - [notify](https://github.com/MikeKovarik/rollup-plugin-notify) – Display errors as system notifications.
 - [progress](https://github.com/jkuri/rollup-plugin-progress) - Show build progress in the console.
+- [rollpkg](https://github.com/rafgraph/rollpkg) - No config build tool to create packages with Rollup and TypeScript
 - [serve](https://github.com/thgh/rollup-plugin-serve) - Development Server in a Plugin.
 - [dev](https://github.com/pearofducks/rollup-plugin-dev) - Development server with additional logging and options.
 - [sizes](https://github.com/tivac/rollup-plugin-sizes) - Display bundle content and size in the console.
