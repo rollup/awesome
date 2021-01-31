@@ -234,6 +234,7 @@ Plugins which affect the Rollup workflow.
 - [conditional](https://github.com/AgronKabashi/rollup-plugin-conditional) – Conditionally execute plugins.
 - [execute](https://github.com/audinue/rollup-plugin-execute) - Execute shell commands sequentially during a build.
 - [html-entry](https://github.com/leogr/rollup-plugin-html-entry) – Allows use HTML Script Tags as entry points.
+- [incremental](https://github.com/mprt-org/rollup-plugin-incremental) - Recompile only changed modules in watch mode.
 - [jscc](https://github.com/aMarCruz/rollup-plugin-jscc) – Conditional compilation and declaration of ES6 imports.
 - [off-main-thread](https://github.com/surma/rollup-plugin-off-main-thread) - Use ES6 modules with Web Workers.
 - [make](https://github.com/btmorex/rollup-plugin-make) - Build dependency files suitable for make
