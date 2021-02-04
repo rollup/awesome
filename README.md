@@ -31,7 +31,8 @@ Plugins created and maintained by the Rollup organization.
 - [replace](https://github.com/rollup/plugins/tree/master/packages/replace) – Replace occurrences of a set of strings.
 - [run](https://github.com/rollup/plugins/tree/master/packages/run) - Run your bundle after it's generated.
 - [strip](https://github.com/rollup/plugins/tree/master/packages/strip) - Remove expressions from code.
-- [sucrase](https://github.com/rollup/plugins/tree/master/packages/sucrase) - Compile TypeScript, Flow, JSX.
+- [sucrase](https://github.com/rollup/plugins/tree/master/packages/sucrase) - Compile 
+, Flow, JSX.
 - [typescript](https://github.com/rollup/plugins/tree/master/packages/typescript) - Seamless integration with Typescript.
 - [url](https://github.com/rollup/plugins/tree/master/packages/url) - Inline import files as data-URIs.
 - [virtual](https://github.com/rollup/plugins/tree/master/packages/virtual) - Load modules from memory.
@@ -215,6 +216,7 @@ Plugins which affect code.
 - [bucklescript](https://github.com/shrynx/rollup-plugin-bucklescript) - Compile ReasonML / OCaml.
 - [coffee-react](https://github.com/N1kto/rollup-plugin-coffee-react) - Compile CJSX and CoffeeScript.
 - [coffee-script](https://github.com/lautis/rollup-plugin-coffee-script) – Compile CoffeeScript.
+- [dts](https://github.com/Swatinem/rollup-plugin-dts) - Rollup `.d.ts` TypeScript Definition files.
 - [elm](https://github.com/ulisses-alves/rollup-plugin-elm) - Compile Elm.
 - [jspicl](https://github.com/AgronKabashi/rollup-plugin-jspicl) - Transpile JavaScript into PICO-8 Lua.
 - [nodent](https://github.com/oligot/rollup-plugin-nodent) - Transpile ES2017 `async`/`await`.
