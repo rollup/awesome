@@ -252,6 +252,7 @@ Packages created and maintained by the Rollup organization.
 
 ### Community Packages
 
+- [deno-rollup](https://github.com/cmorten/deno-rollup/) - Use Rollup in [Deno](https://deno.land/) projects.
 - [fruit](https://github.com/jaebradley/fruit#readme) - Build a Rollup boilerplate in seconds.
 - [grunt-rollup](https://github.com/chrisprice/grunt-rollup) - Grunt plugin for Rollup
 - [rollup-starter-app](https://github.com/rollup/rollup-starter-app) - Create a bare-bones application using Rollup.
