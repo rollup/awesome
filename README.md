@@ -126,6 +126,7 @@ and external modules.
 
 Plugins which allow importing other types of files as modules.
 
+- [external-assets](https://github.com/soufyakoub/rollup-plugin-external-assets) - Make assets external but include them in the output.
 - [file-as-blob](https://gitlab.com/IvanSanchez/rollup-plugin-file-as-blob) – Import a file as a `blob:` URL.
 - [glsl](https://github.com/vwochnik/rollup-plugin-glsl) - Import GLSL shaders as compressed strings.
 - [glslify](https://github.com/glslify/rollup-plugin-glslify) - Import GLSL strings with [glslify](https://github.com/glslify/glslify).
