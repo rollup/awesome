@@ -73,7 +73,7 @@
 
 - [analyzer](https://github.com/doesdev/rollup-plugin-analyzer) - Statistics and Metrics for a bundle.
 - [cleanup](https://github.com/aMarCruz/rollup-plugin-cleanup) - Remove and modify code based on an opinionated ruleset.
-- [eslint](https://github.com/TrySound/rollup-plugin-eslint) - verify entry and imported scripts.
+- [eslint](https://github.com/TrySound/rollup-plugin-eslint) - Verify entry and imported scripts.
 - [eslint-bundle](https://github.com/nikolay-borzov/rollup-plugin-eslint-bundle) - Lint bundles with ESLint.
 - [flow](https://github.com/leebyron/rollup-plugin-flow) - Remove Flow type annotations.
 - [flow-entry](https://github.com/swansontec/rollup-plugin-flow-entry) - Export Flow types from a bundle.
@@ -108,7 +108,7 @@
 - [angular](https://github.com/cebor/rollup-plugin-angular) - Angular2 template and styles inliner.
 - [jsx](https://github.com/konsumer/rollup-plugin-jsx) - Compile React JSX and JSX-like components.
 - [riot](https://github.com/riot/rollup-plugin-riot) - Riot.js tagfile support.
-- [svelte](https://github.com/sveltejs/rollup-plugin-svelte) — Compile Svelte components.
+- [svelte](https://github.com/sveltejs/rollup-plugin-svelte) - Compile Svelte components.
 - [vue](https://github.com/vuejs/rollup-plugin-vue) - Compile Vue components.
 - [vue-inline-svg](https://github.com/e-e-e/rollup-plugin-vue-inline-svg) - Import SVG files as Vue components.
 
