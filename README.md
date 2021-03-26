@@ -2,7 +2,7 @@
 	<img width="400" src="media/logo.svg" alt="Awesome Rollup">
 </div>
 
-# Awesome Rollup [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Awesome Lint](https://github.com/valentin-vogel/awesome/actions/workflows/awesome-lint.yml/badge.svg)](https://github.com/valentin-vogel/awesome/actions/workflows/awesome-lint.yml)
+# Awesome Rollup [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Awesome Lint](https://github.com/rollup/awesome/actions/workflows/awesome-lint.yml/badge.svg)](https://github.com/rollup/awesome/actions/workflows/awesome-lint.yml)
 
 ⚡️ Delightful Rollup Plugins, Packages, and Resources
 
