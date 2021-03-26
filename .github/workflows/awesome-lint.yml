@@ -1,5 +1,5 @@
 name: Awesome-Lint
-on: [push, pull_request]
+on: pull_request
 jobs:
   Awesome_Lint:
     runs-on: ubuntu-latest
