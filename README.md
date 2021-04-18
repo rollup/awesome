@@ -41,13 +41,14 @@ Plugins created and maintained by the Rollup organization.
 
 ### All-Purpose Awesome
 
+- [build-statistics](https://github.com/nemwiz/build-statistics-plugin) - Plugin that keeps a continuous log of your build time.
+- [dev](https://github.com/pearofducks/rollup-plugin-dev) - Development server with additional logging and options.
 - [graph](https://github.com/ondras/rollup-plugin-graph) – Generates a module dependency graph.
 - [nollup](https://github.com/PepsRyuu/nollup) - Rollup-compatible development bundler providing Hot Module Replacement.
 - [notify](https://github.com/MikeKovarik/rollup-plugin-notify) – Display errors as system notifications.
 - [progress](https://github.com/jkuri/rollup-plugin-progress) - Show build progress in the console.
 - [rollpkg](https://github.com/rafgraph/rollpkg) - No config build tool to create packages with Rollup and TypeScript
 - [serve](https://github.com/thgh/rollup-plugin-serve) - Development Server in a Plugin.
-- [dev](https://github.com/pearofducks/rollup-plugin-dev) - Development server with additional logging and options.
 - [sizes](https://github.com/tivac/rollup-plugin-sizes) - Display bundle content and size in the console.
 - [size-snapshot](https://github.com/TrySound/rollup-plugin-size-snapshot) - Track bundle size and treeshakability with ease.
 - [visualizer](https://github.com/btd/rollup-plugin-visualizer) - Bundle and dependency visualizer.
