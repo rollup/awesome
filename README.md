@@ -238,8 +238,9 @@ Plugins which affect the Rollup workflow.
 - [html-entry](https://github.com/leogr/rollup-plugin-html-entry) – Allows use HTML Script Tags as entry points.
 - [incremental](https://github.com/mprt-org/rollup-plugin-incremental) - Recompile only changed modules in watch mode.
 - [jscc](https://github.com/aMarCruz/rollup-plugin-jscc) – Conditional compilation and declaration of ES6 imports.
+- [make](https://github.com/btmorex/rollup-plugin-make) - Build dependency files suitable for make.
 - [off-main-thread](https://github.com/surma/rollup-plugin-off-main-thread) - Use ES6 modules with Web Workers.
-- [make](https://github.com/btmorex/rollup-plugin-make) - Build dependency files suitable for make
+- [polyfill-node](https://github.com/snowpackjs/rollup-plugin-polyfill-node) - A modern Node.js polyfill.
 - [sourcemaps](https://github.com/maxdavidson/rollup-plugin-sourcemaps) – Load external source maps from URIs.
 
 ## Packages
