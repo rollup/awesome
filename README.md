@@ -205,6 +205,7 @@ Plugins for working with template languages.
 Plugins which search for, and replace text in a bundle.
 
 - [ascii](https://github.com/mbostock/rollup-plugin-ascii) – Rewrite non-ASCII characters as string literals.
+- [prompt-replace](https://github.com/MacFJA/rollup-plugin-prompt-replace) – Ask at runtime the replacement value.
 - [re](https://github.com/jetiny/rollup-plugin-re) – Replace text with Regular Expressions.
 - [strip-code](https://github.com/se-panfilov/rollup-plugin-strip-code) - Remove text with Regular Expressions.
 
