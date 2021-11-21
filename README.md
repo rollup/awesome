@@ -218,6 +218,7 @@ Plugins which affect code.
 - [coffee-script](https://github.com/lautis/rollup-plugin-coffee-script) – Compile CoffeeScript.
 - [dts](https://github.com/Swatinem/rollup-plugin-dts) - Rollup `.d.ts` TypeScript Definition files.
 - [elm](https://github.com/ulisses-alves/rollup-plugin-elm) - Compile Elm.
+- [esbuild-transform](https://github.com/exuanbo/rollup-plugin-esbuild-transform) - Transform with [esbuild](https://github.com/evanw/esbuild).
 - [jspicl](https://github.com/AgronKabashi/rollup-plugin-jspicl) - Transpile JavaScript into PICO-8 Lua.
 - [nodent](https://github.com/oligot/rollup-plugin-nodent) - Transpile ES2017 `async`/`await`.
 - [pegjs](https://github.com/cameronhunter/rollup-plugin-pegjs) - Import PEG.js grammars as parsers.
