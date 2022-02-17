@@ -21,6 +21,7 @@ Plugins created and maintained by the Rollup organization.
 - [buble](https://github.com/rollup/plugins/tree/master/packages/buble) – Transpile with Bublé.
 - [commonjs](https://github.com/rollup/plugins/tree/master/packages/commonjs) - Convert CommonJS modules to ES Modules.
 - [dsv](https://github.com/rollup/plugins/tree/master/packages/dsv) - Convert CSV and TSV files into JavaScript modules.
+- [eslint](https://github.com/rollup/plugins/tree/master/packages/eslint) - Lint entry points and all imported files with ESLint.
 - [html](https://github.com/rollup/plugins/tree/master/packages/html) - Creates HTML files to serve Rollup bundles
 - [image](https://github.com/rollup/plugins/tree/master/packages/image) - Import JPG, PNG, GIF and SVG images.
 - [inject](https://github.com/rollup/plugins/tree/master/packages/inject) - Scans for global variables and injects `import` statements.
@@ -58,7 +59,6 @@ Plugins which help with code quality.
 
 - [analyzer](https://github.com/doesdev/rollup-plugin-analyzer) - Statistics and Metrics for a bundle.
 - [cleanup](https://github.com/aMarCruz/rollup-plugin-cleanup) – Remove and modify code based on an opinionated ruleset.
-- [eslint](https://github.com/TrySound/rollup-plugin-eslint) - verify entry and imported scripts
 - [eslint-bundle](https://github.com/nikolay-borzov/rollup-plugin-eslint-bundle) - Lint bundles with ESLint.
 - [flow](https://github.com/leebyron/rollup-plugin-flow) - Remove Flow type annotations.
 - [flow-entry](https://github.com/swansontec/rollup-plugin-flow-entry) - Export Flow types from a bundle.
@@ -140,6 +140,7 @@ Plugins which allow importing other types of files as modules.
 - [rust](https://github.com/DrSensor/rollup-plugin-rust) - Compile Rust as WebAssembly or a Node.js Add-on.
 - [spritesmith](https://github.com/linjinying/rollup-plugin-sprite) — Convert a set of images into a spritesmith sprite-sheet.
 - [string](https://github.com/TrySound/rollup-plugin-string) – Import text files as strings.
+- [svg-import](https://github.com/korywka/rollup-plugin-svg-import) - Import SVG files as SVG DOM Node or string.
 - [svg-sprite](https://github.com/VladShcherbin/rollup-plugin-svg-sprite) — Import SVG files as an external SVG sprite.
 - [svg-to-symbol](https://github.com/fjc0k/rollup-plugin-svg-to-symbol) - Import SVG files as symbol strings.
 - [svgo](https://github.com/porsager/rollup-plugin-svgo) - Import SVG files as strings
@@ -169,6 +170,7 @@ Plugins which affect the final output of a bundle.
 - [generate-package-json](https://github.com/VladShcherbin/rollup-plugin-generate-package-json) - Generate a `package.json` file with dependencies from your bundle.
 - [gzip](https://github.com/kryops/rollup-plugin-gzip) - Create a compressed GZ artifact for your bundle.
 - [hash](https://github.com/phamann/rollup-plugin-hash) – Generate output files with unique hashes.
+- [html-minifier](https://github.com/juliendargelos/rollup-plugin-html-minifier) – Minify HTML output files using html-minifier.
 - [iife](https://github.com/eight04/rollup-plugin-iife) - Convert ES modules to Immediately Invoked Function Expressions.
 - [license](https://github.com/mjeanroy/rollup-plugin-license) - Add Licensing to a bundle.
 - [live-reload](https://github.com/thgh/rollup-plugin-livereload) - Live reloading for a bundle.
@@ -218,6 +220,7 @@ Plugins which affect code.
 - [coffee-script](https://github.com/lautis/rollup-plugin-coffee-script) – Compile CoffeeScript.
 - [dts](https://github.com/Swatinem/rollup-plugin-dts) - Rollup `.d.ts` TypeScript Definition files.
 - [elm](https://github.com/ulisses-alves/rollup-plugin-elm) - Compile Elm.
+- [esbuild-transform](https://github.com/exuanbo/rollup-plugin-esbuild-transform) - Transform with [esbuild](https://github.com/evanw/esbuild).
 - [flat-dts](https://github.com/run-z/rollup-plugin-flat-dts) - `.d.ts` files flattener.
 - [jspicl](https://github.com/AgronKabashi/rollup-plugin-jspicl) - Transpile JavaScript into PICO-8 Lua.
 - [nodent](https://github.com/oligot/rollup-plugin-nodent) - Transpile ES2017 `async`/`await`.
@@ -239,8 +242,9 @@ Plugins which affect the Rollup workflow.
 - [html-entry](https://github.com/leogr/rollup-plugin-html-entry) – Allows use HTML Script Tags as entry points.
 - [incremental](https://github.com/mprt-org/rollup-plugin-incremental) - Recompile only changed modules in watch mode.
 - [jscc](https://github.com/aMarCruz/rollup-plugin-jscc) – Conditional compilation and declaration of ES6 imports.
+- [make](https://github.com/btmorex/rollup-plugin-make) - Build dependency files suitable for make.
 - [off-main-thread](https://github.com/surma/rollup-plugin-off-main-thread) - Use ES6 modules with Web Workers.
-- [make](https://github.com/btmorex/rollup-plugin-make) - Build dependency files suitable for make
+- [polyfill-node](https://github.com/snowpackjs/rollup-plugin-polyfill-node) - A modern Node.js polyfill.
 - [sourcemaps](https://github.com/maxdavidson/rollup-plugin-sourcemaps) – Load external source maps from URIs.
 
 ## Packages
