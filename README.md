@@ -114,6 +114,7 @@ and external modules.
 - [hoist-import-deps](https://github.com/vikerman/rollup-plugin-hoist-import-deps) - Avoid waterfalls when dynamically importing modules by hoisting import dependencies.
 - [ignore](https://github.com/alexlur/rollup-plugin-ignore) - Ignore modules by replacing with empty objects.
 - [import-alias](https://github.com/Hedzer/rollup-plugin-import-alias) - Maps an import path to another.
+- [import-assertions](https://github.com/swiing/rollup-plugin-import-assertions) - Add support for TC39 import assertions (e.g. assert types `css` and `json`)
 - [includepaths](https://github.com/dot-build/rollup-plugin-includepaths) – Provide base paths from which to resolve imports.
 - [named-directory](https://github.com/frostney/rollup-plugin-named-directory) - Provides shortcuts for colocated modules in directories.
 - [node-builtins](https://github.com/calvinmetcalf/rollup-plugin-node-builtins) - Node builtin modules as ES modules.
