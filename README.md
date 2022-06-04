@@ -105,6 +105,7 @@ and external modules.
 
 - [amd](https://github.com/piuccio/rollup-plugin-amd) - Convert AMD modules to ES6.
 - [async-define](https://github.com/tes/rollup-plugin-async-define) - Wrap an AMD bundle with async-define.
+- [baked-env](https://github.com/victornpb/rollup-plugin-baked-env) - Import 'process.env' as a module for baking environment variables at build time.
 - [bower-resolve](https://github.com/mjeanroy/rollup-plugin-bower-resolve) – Use Bower the resolution algorithm.
 - [cjs-es](https://github.com/eight04/rollup-plugin-cjs-es) - Convert CommonJS modules without proxying and reassignment.
 - [consts](https://github.com/NotWoods/rollup-plugin-consts) - Import constants at build time.
