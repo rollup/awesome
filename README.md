@@ -160,6 +160,7 @@ Plugins which affect the final output of a bundle.
 
 - [app-utils](https://github.com/Autodesk/rollup-plugin-app-utils) - Common build utilities for applications.
 - [banner](https://github.com/yingye/rollup-plugin-banner) - Append content before js bundle.
+- [bookmarklet](https://github.com/rollup-community/rollup-plugin-bookmarklet) - Add `javascript:` prefix for bookmarklet to code.
 - [bundleutils](https://github.com/pschroen/rollup-plugin-bundleutils) - Set of commonly used utility functions.
 - [bundle-html](https://github.com/haifeng2013/rollup-plugin-bundle-html) - Inject the bundle js/css files as well as external js/css files to html template.
 - [by-output](https://github.com/wmzy/rollup-plugin-by-output) - Apply plugins according to special output option, reduce config and save time.
