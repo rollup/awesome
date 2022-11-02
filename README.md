@@ -252,7 +252,6 @@ Plugins which affect the Rollup workflow.
 - [jscc](https://github.com/aMarCruz/rollup-plugin-jscc) – Conditional compilation and declaration of ES6 imports.
 - [make](https://github.com/btmorex/rollup-plugin-make) - Build dependency files suitable for make.
 - [off-main-thread](https://github.com/surma/rollup-plugin-off-main-thread) - Use ES6 modules with Web Workers.
-- [polyfill-node](https://github.com/snowpackjs/rollup-plugin-polyfill-node) - A modern Node.js polyfill.
 - [sourcemaps](https://github.com/maxdavidson/rollup-plugin-sourcemaps) – Load external source maps from URIs.
 
 ## Packages
