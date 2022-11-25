@@ -139,6 +139,7 @@ Plugins which allow importing other types of files as modules.
 - [html](https://github.com/bdadam/rollup-plugin-html) - Import html files as strings.
 - [hypothetical](https://github.com/Permutatrix/rollup-plugin-hypothetical) - Import modules from a virtual filesystem.
 - [imagemin](https://github.com/malchata/rollup-plugin-imagemin) - Optimize images with [imagemin](https://github.com/imagemin/imagemin).
+- [jsonlines](https://github.com/petlack/rollup-plugin-jsonlines) - Imports .jsonl (JSON Lines) files as JSON arrays.
 - [markdown](https://github.com/vijithassar/rollup-plugin-markdown) - Import code from fenced code blocks in Markdown.
 - [md](https://github.com/xiaofuzi/rollup-plugin-md) - Import and compile markdown files.
 - [mjml](https://github.com/daankauwenberg/rollup-plugin-mjml) - Convert MJML into responsive email templates.
