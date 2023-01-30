@@ -135,7 +135,8 @@ Plugins which allow importing other types of files as modules.
 - [glsl](https://github.com/vwochnik/rollup-plugin-glsl) - Import GLSL shaders as compressed strings.
 - [glsl-optimize](https://github.com/docd27/rollup-plugin-glsl-optimize) - Import and optimize GLSL shaders as compressed strings. Supports [glslify](https://github.com/glslify/glslify).
 - [glslify](https://github.com/glslify/rollup-plugin-glslify) - Import GLSL strings with [glslify](https://github.com/glslify/glslify).
-- [gltf](https://github.com/bengsfort/rollup-plugin-gltf) - Import glTF 3d models as a URI or inlined JSON.
+- [gltf](https://github.com/nytimes/rd-bundler-3d-plugins) - Import, transform, optimize, and compress glTF 3D models.
+- [gltf-inline](https://github.com/bengsfort/rollup-plugin-gltf) - Import glTF 3D models as a URI or inlined JSON.
 - [html](https://github.com/bdadam/rollup-plugin-html) - Import html files as strings.
 - [hypothetical](https://github.com/Permutatrix/rollup-plugin-hypothetical) - Import modules from a virtual filesystem.
 - [imagemin](https://github.com/malchata/rollup-plugin-imagemin) - Optimize images with [imagemin](https://github.com/imagemin/imagemin).
