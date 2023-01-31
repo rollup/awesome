@@ -43,6 +43,7 @@ Plugins created and maintained by the Rollup organization.
 ### All-Purpose Awesome
 
 - [build-statistics](https://github.com/nemwiz/build-statistics-plugin) - Plugin that keeps a continuous log of your build time.
+- [circular-dependency](https://github.com/threedayAAAAA/rollup-plugin-circular-dependency) - Detect circular dependencies.
 - [dev](https://github.com/pearofducks/rollup-plugin-dev) - Development server with additional logging and options.
 - [graph](https://github.com/ondras/rollup-plugin-graph) – Generates a module dependency graph.
 - [nollup](https://github.com/PepsRyuu/nollup) - Rollup-compatible development bundler providing Hot Module Replacement.
