@@ -125,6 +125,7 @@ and external modules.
 - [ts-paths](https://github.com/bitshiftza/rollup-plugin-ts-paths) – Resolve modules from `tsconfig` paths.
 - [skypack-resolver](https://github.com/vinicius73/rollup-plugin-pika-resolver) - Use [Skypack CDN](https://skypack.dev/) for external dependencies.
 - [web-worker-loader](https://github.com/darionco/rollup-plugin-web-worker-loader) - Package Workers for NodeJS and the browser.
+- [circular-dependency](https://github.com/threedayAAAAA/rollup-plugin-circular-dependency) - Detect circular dependencies.
 
 ### Other File Imports
 
