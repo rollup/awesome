@@ -20,6 +20,7 @@ Plugins created and maintained by the Rollup organization.
 - [babel](https://github.com/rollup/plugins/tree/master/packages/babel) - Seamless integration with Babel.
 - [buble](https://github.com/rollup/plugins/tree/master/packages/buble) – Transpile with Bublé.
 - [commonjs](https://github.com/rollup/plugins/tree/master/packages/commonjs) - Convert CommonJS modules to ES Modules.
+- [dynamic-import-vars](https://github.com/rollup/plugins/tree/master/packages/dynamic-import-vars) - Resolving dynamic imports that contain variables.
 - [dsv](https://github.com/rollup/plugins/tree/master/packages/dsv) - Convert CSV and TSV files into JavaScript modules.
 - [eslint](https://github.com/rollup/plugins/tree/master/packages/eslint) - Lint entry points and all imported files with ESLint.
 - [html](https://github.com/rollup/plugins/tree/master/packages/html) - Creates HTML files to serve Rollup bundles
