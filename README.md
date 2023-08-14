@@ -155,6 +155,12 @@ Plugins which allow importing other types of files as modules.
 - [smart-asset](https://github.com/sormy/rollup-plugin-smart-asset) - Import any assets as url using rebase, copy or inline mode. Similar to `url` but has more hashing options and works well together with babel using transform hook.
 - [toml](https://github.com/YanceyOfficial/rollup-plugin-toml) - Convert .toml files to ES6 modules.
 
+### Input
+
+Plugins which affect the input of a bundle.
+
+- [multi-input](https://github.com/alfredosalzillo/rollup-plugin-multi-input) - Bundle modular libraries with sub directories.
+
 ### Output
 
 Plugins which affect the final output of a bundle.
