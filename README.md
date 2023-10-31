@@ -32,7 +32,7 @@ Plugins created and maintained by the Rollup organization.
 - [replace](https://github.com/rollup/plugins/tree/master/packages/replace) – Replace occurrences of a set of strings.
 - [run](https://github.com/rollup/plugins/tree/master/packages/run) - Run your bundle after it's generated.
 - [strip](https://github.com/rollup/plugins/tree/master/packages/strip) - Remove expressions from code.
-- [sucrase](https://github.com/rollup/plugins/tree/master/packages/sucrase) - Compile 
+- [sucrase](https://github.com/rollup/plugins/tree/master/packages/sucrase) - Compile
 , Flow, JSX.
 - [typescript](https://github.com/rollup/plugins/tree/master/packages/typescript) - Seamless integration with Typescript.
 - [url](https://github.com/rollup/plugins/tree/master/packages/url) - Inline import files as data-URIs.
@@ -86,6 +86,7 @@ Plugins for working with CSS.
 - [styles](https://github.com/Anidetrix/rollup-plugin-styles) - Universal plugin for styles: PostCSS, Sass, Less, Stylus and more.
 - [stylus-css-modules](https://github.com/mtojo/rollup-plugin-stylus-css-modules) – Compile Stylus and inject CSS modules
 - [sass-variables](https://github.com/gmfun/rollup-plugin-sass-variables) - Import SASS variables as Objects.
+- [tailwindcss-lit](https://github.com/ouweiya/rollup-plugin-tailwindcss-lit) - Using Tailwind CSS in Lit.
 
 ### Frameworks
 
