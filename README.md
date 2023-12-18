@@ -201,6 +201,7 @@ Plugins which affect the final output of a bundle.
 Plugins for working with template languages.
 
 - [twig](https://github.com/fm-ph/rollup-plugin-twig) - Import pre-compiled Twig.js templates.
+- [twig, by Twing](https://www.npmjs.com/package/@nightlycommit/rollup-plugin-twig) - Seamless integration between Rollup and Twig, fueled by [Twing](https://www.npmjs.com/package/twing).
 - [dustjs](https://github.com/chrisdothtml/rollup-plugin-dustjs) - Import Dust.js templates.
 - [eft](https://github.com/ClassicOldSong/rollup-plugin-eft) - Compile ef.js templates.
 - [ejs](https://github.com/trofima/rollup-plugin-ejs) - Compile .EJS templates.
