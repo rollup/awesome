@@ -237,6 +237,7 @@ Plugins which affect code.
 - [purs](https://github.com/Pauan/rollup-plugin-purs) - Compile PureScript.
 - [regenerator](https://github.com/noTruth/rollup-plugin-regenerator) - Replace `async` functions with ES5 Promise functions.
 - [ts](https://github.com/wessberg/rollup-plugin-ts) - Transpile with Babel, TypeScript, or both, while respecting Browserslist and TypeScript declarations.
+- [@vitrail/rollup-plugin-typescript](https://www.npmjs.com/package/@vitrail/rollup-plugin-typescript) - Non-invasive, non-opinionated integration between Rollup and TypeScript.
 - [typescript2](https://github.com/ezolenko/rollup-plugin-typescript2) - Compile TypeScript v2.0+.
 
 ### Workflow
