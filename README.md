@@ -32,7 +32,7 @@ Plugins created and maintained by the Rollup organization.
 - [replace](https://github.com/rollup/plugins/tree/master/packages/replace) – Replace occurrences of a set of strings.
 - [run](https://github.com/rollup/plugins/tree/master/packages/run) - Run your bundle after it's generated.
 - [strip](https://github.com/rollup/plugins/tree/master/packages/strip) - Remove expressions from code.
-- [sucrase](https://github.com/rollup/plugins/tree/master/packages/sucrase) - Compile 
+- [sucrase](https://github.com/rollup/plugins/tree/master/packages/sucrase) - Compile
 , Flow, JSX.
 - [typescript](https://github.com/rollup/plugins/tree/master/packages/typescript) - Seamless integration with Typescript.
 - [url](https://github.com/rollup/plugins/tree/master/packages/url) - Inline import files as data-URIs.
@@ -230,6 +230,7 @@ Plugins which affect code.
 - [dts](https://github.com/Swatinem/rollup-plugin-dts) - Rollup `.d.ts` TypeScript Definition files.
 - [elm](https://github.com/ulisses-alves/rollup-plugin-elm) - Compile Elm.
 - [esbuild-transform](https://github.com/exuanbo/rollup-plugin-esbuild-transform) - Transform with [esbuild](https://github.com/evanw/esbuild).
+- [fast-typescript](https://github.com/Septh/rollup-plugins/tree/main/plugins/fast-typescript) - Uses [esbuild](https://esbuild.github.io/), [swc](https://swc.rs/) or [sucrase](https://github.com/alangpierce/sucrase) (you decide!) for blazing fast TypeScript transpilation.
 - [flat-dts](https://github.com/run-z/rollup-plugin-flat-dts) - `.d.ts` files flattener.
 - [jspicl](https://github.com/AgronKabashi/rollup-plugin-jspicl) - Transpile JavaScript into PICO-8 Lua.
 - [nodent](https://github.com/oligot/rollup-plugin-nodent) - Transpile ES2017 `async`/`await`.
