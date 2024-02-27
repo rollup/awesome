@@ -32,7 +32,7 @@ Plugins created and maintained by the Rollup organization.
 - [replace](https://github.com/rollup/plugins/tree/master/packages/replace) – Replace occurrences of a set of strings.
 - [run](https://github.com/rollup/plugins/tree/master/packages/run) - Run your bundle after it's generated.
 - [strip](https://github.com/rollup/plugins/tree/master/packages/strip) - Remove expressions from code.
-- [sucrase](https://github.com/rollup/plugins/tree/master/packages/sucrase) - Compile 
+- [sucrase](https://github.com/rollup/plugins/tree/master/packages/sucrase) - Compile
 , Flow, JSX.
 - [typescript](https://github.com/rollup/plugins/tree/master/packages/typescript) - Seamless integration with Typescript.
 - [url](https://github.com/rollup/plugins/tree/master/packages/url) - Inline import files as data-URIs.
@@ -120,6 +120,7 @@ and external modules.
 - [includepaths](https://github.com/dot-build/rollup-plugin-includepaths) – Provide base paths from which to resolve imports.
 - [named-directory](https://github.com/frostney/rollup-plugin-named-directory) - Provides shortcuts for colocated modules in directories.
 - [node-builtins](https://github.com/calvinmetcalf/rollup-plugin-node-builtins) - Node builtin modules as ES modules.
+- [node-externals](https://github.com/Septh/rollup-plugin-node-externals) - Automatically declares Node built-in modules, and optionnaly npm dependencies, as external.
 - [node-globals](https://github.com/calvinmetcalf/rollup-plugin-node-globals) - Injects node globals.
 - [node-resolve-angular](https://github.com/OasisDigital/rollup-plugin-node-resolve-angular) - Node module resolution support for Angular 4+.
 - [ts-paths](https://github.com/bitshiftza/rollup-plugin-ts-paths) – Resolve modules from `tsconfig` paths.
