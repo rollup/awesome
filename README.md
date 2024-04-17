@@ -32,7 +32,7 @@ Plugins created and maintained by the Rollup organization.
 - [replace](https://github.com/rollup/plugins/tree/master/packages/replace) – Replace occurrences of a set of strings.
 - [run](https://github.com/rollup/plugins/tree/master/packages/run) - Run your bundle after it's generated.
 - [strip](https://github.com/rollup/plugins/tree/master/packages/strip) - Remove expressions from code.
-- [sucrase](https://github.com/rollup/plugins/tree/master/packages/sucrase) - Compile 
+- [sucrase](https://github.com/rollup/plugins/tree/master/packages/sucrase) - Compile
 , Flow, JSX.
 - [typescript](https://github.com/rollup/plugins/tree/master/packages/typescript) - Seamless integration with Typescript.
 - [url](https://github.com/rollup/plugins/tree/master/packages/url) - Inline import files as data-URIs.
@@ -77,6 +77,7 @@ Plugins for working with CSS.
 - [css-only](https://github.com/thgh/rollup-plugin-css-only) – Output plain CSS.
 - [css-porter](https://github.com/RJHwang/rollup-plugin-css-porter) - Combine CSS imports and output to file.
 - [embed-css](https://github.com/kei-ito/rollup-plugin-embed-css) - Import and append CSS to a bundle.
+- [keep-css-imports](https://github.com/SLTKA/rollup-plugin-keep-css-imports) - Output separate CSS files and keep imports in JS, enabling the bundling of component libraries which allow consumers to "tree shake" unused components' CSS.
 - [less](https://github.com/xiaofuzi/rollup-plugin-less) - Compile LESS files.
 - [less-modules](https://github.com/katrotz/rollup-plugin-less-modules) - Import or Bundle LESS files.
 - [modular-css](https://github.com/tivac/modular-css#rollup) - Alternative CSS Modules implementation supporting Rollup.
