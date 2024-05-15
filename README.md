@@ -189,6 +189,7 @@ Plugins which affect the final output of a bundle.
 - [prettier](https://github.com/mjeanroy/rollup-plugin-prettier) - Run prettier on a bundle.
 - [rebase](https://github.com/sebastian-software/rollup-plugin-rebase) - Copies and adjusts asset references to new destination-relative location.
 - [shift-header](https://github.com/jacksonrayhamilton/rollup-plugin-shift-header) - Move comment headers to the top of a bundle.
+- [source-hash](https://github.com/jhildenbiddle/rollup-plugin-source-hash) - Insert hash value based on pre-bundled source code into bundled code and/or filenames.
 - [sri](https://github.com/JonasKruckenberg/rollup-plugin-sri) - Add subresource integrity attributes for your bundle.
 - [static-site](https://gitlab.com/thekelvinliu/rollup-plugin-static-site) - Generate HTML for a bundle.
 - [terser](https://github.com/TrySound/rollup-plugin-terser) - Minify a bundle using Terser.
