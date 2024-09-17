@@ -154,7 +154,7 @@ Plugins which allow importing other types of files as modules.
 - [vinyl](https://github.com/operandom/rollup-plugin-vinyl) - Import from [Vinyl](https://github.com/gulpjs/vinyl) files
 - [smart-asset](https://github.com/sormy/rollup-plugin-smart-asset) - Import any assets as url using rebase, copy or inline mode. Similar to `url` but has more hashing options and works well together with babel using transform hook.
 - [toml](https://github.com/YanceyOfficial/rollup-plugin-toml) - Convert .toml files to ES6 modules.
-- [flatten-dir](https://github.com/promplate/rollup-plugin-flatten-dir) - Import directories as a path-content object, useful for working with @pyodide and @stackblitz.
+- [flatten-dir](https://github.com/promplate/rollup-plugin-flatten-dir) - Import directories as a path-content object, especially useful for working with [pyodide](https://github.com/pyodide) and [stackblitz](https://github.com/stackblitz).
 
 ### Output
 
