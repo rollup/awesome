@@ -171,6 +171,7 @@ Plugins which affect the final output of a bundle.
 - [copy-assets](https://github.com/bengsfort/rollup-plugin-copy-assets) - Copy specified assets to the output directory.
 - [cpy](https://github.com/paulmelnikow/rollup-plugin-cpy) - Easily copy files and folders during a build.
 - [copy-smartly](https://github.com/TrickyPi/rollup-copy-smartly) - Smartly copy files if they are changed, created or deleted.
+- [crx](https://codeberg.org/reesericci/rollup-plugin-crx) - Generate signed CRX bundles after a build.
 - [delete](https://github.com/vladshcherbin/rollup-plugin-delete) - Delete files and folders during a build.
 - [emit-ejs](https://github.com/juliendargelos/rollup-plugin-emit-ejs) - Emit files from ejs templates.
 - [espruino](https://github.com/joakim/rollup-plugin-espruino) - Send a bundle to [Espruino](http://www.espruino.com) devices.
