@@ -131,6 +131,7 @@ and external modules.
 - [node-builtins](https://github.com/calvinmetcalf/rollup-plugin-node-builtins) - Node builtin modules as ES modules.
 - [node-globals](https://github.com/calvinmetcalf/rollup-plugin-node-globals) - Injects node globals.
 - [node-resolve-angular](https://github.com/OasisDigital/rollup-plugin-node-resolve-angular) - Node module resolution support for Angular 4+.
+- [no-op](https://github.com/dmnsgn/rollup-plugin-no-op) - Replace imported modules with empty object
 - [ts-paths](https://github.com/bitshiftza/rollup-plugin-ts-paths) – Resolve modules from `tsconfig` paths.
 - [skypack-resolver](https://github.com/vinicius73/rollup-plugin-pika-resolver) - Use [Skypack CDN](https://skypack.dev/) for external dependencies.
 - [web-worker-loader](https://github.com/darionco/rollup-plugin-web-worker-loader) - Package Workers for NodeJS and the browser.
