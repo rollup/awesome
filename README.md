@@ -202,6 +202,7 @@ Plugins which affect the final output of a bundle.
 - [source-hash](https://github.com/jhildenbiddle/rollup-plugin-source-hash) - Insert hash values based on pre-bundled source code into filenames and bundled code.
 - [sri](https://github.com/JonasKruckenberg/rollup-plugin-sri) - Add subresource integrity attributes for your bundle.
 - [static-site](https://gitlab.com/thekelvinliu/rollup-plugin-static-site) - Generate HTML for a bundle.
+- [strip-prop-types](https://github.com/m00nbyte/rollup-plugin-strip-prop-types) - Removes propTypes, defaultProps, and prop-types imports, with TypeScript support and custom import paths.
 - [uglify](https://github.com/TrySound/rollup-plugin-uglify) - Minify a bundle with UglifyJS.
 - [version-injector](https://github.com/djhouseknecht/rollup-plugin-version-injector) - Inject your package’s version number into static build files.
 - [zip](https://github.com/mentaljam/rollup-plugin-zip) - Pack all assets into a zip file.
