@@ -187,6 +187,7 @@ Plugins which affect the final output of a bundle.
 - [output-manifest](https://github.com/shuizhongyueming/rollup-plugin-output-manifest) - Generating a chunk manifest.
 - [preserve-shebang](https://github.com/developit/rollup-plugin-preserve-shebang) - Preserves leading shebang in a build entry.
 - [prettier](https://github.com/mjeanroy/rollup-plugin-prettier) - Run prettier on a bundle.
+- [pull-remote-blob](https://github.com/aabmets/rollup-plugin-pull-remote-blob) - Download files during build time using varous config options.
 - [rebase](https://github.com/sebastian-software/rollup-plugin-rebase) - Copies and adjusts asset references to new destination-relative location.
 - [shift-header](https://github.com/jacksonrayhamilton/rollup-plugin-shift-header) - Move comment headers to the top of a bundle.
 - [sri](https://github.com/JonasKruckenberg/rollup-plugin-sri) - Add subresource integrity attributes for your bundle.
