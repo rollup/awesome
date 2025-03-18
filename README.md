@@ -17,11 +17,18 @@
 Plugins created and maintained by the Rollup organization.
 
 - [alias](https://github.com/rollup/plugins/tree/master/packages/alias) - Alias modules in a build.
+- [auto-install](https://github.com/rollup/plugins/tree/master/packages/auto-install) - Automatically installs dependencies that are imported by a bundle, even if not yet in package.json.
 - [babel](https://github.com/rollup/plugins/tree/master/packages/babel) - Seamless integration with Babel.
+- [beep](https://github.com/rollup/plugins/tree/master/packages/beep) - Plugin that beeps when a build ends with errors.
 - [buble](https://github.com/rollup/plugins/tree/master/packages/buble) – Transpile with Bublé.
 - [commonjs](https://github.com/rollup/plugins/tree/master/packages/commonjs) - Convert CommonJS modules to ES Modules.
+- [dynamic-import-vars](https://github.com/rollup/plugins/tree/master/packages/dynamic-import-vars) - Resolving dynamic imports that contain variables.
+- [data-uri](https://github.com/rollup/plugins/tree/master/packages/data-uri) - Imports modules from Data URIs.
 - [dsv](https://github.com/rollup/plugins/tree/master/packages/dsv) - Convert CSV and TSV files into JavaScript modules.
+- [dynamic-import-vars](https://github.com/rollup/plugins/tree/master/packages/dynamic-import-vars) - Support variables in dynamic imports in Rollup.
 - [eslint](https://github.com/rollup/plugins/tree/master/packages/eslint) - Lint entry points and all imported files with ESLint.
+- [esm-shim](https://github.com/rollup/plugins/tree/master/packages/esm-shim) - Replace CJS global variables within esm output bundles.
+- [graphql](https://github.com/rollup/plugins/tree/master/packages/graphql) - Converts .gql/.graphql(s) files to ES6 modules.
 - [html](https://github.com/rollup/plugins/tree/master/packages/html) - Creates HTML files to serve Rollup bundles
 - [image](https://github.com/rollup/plugins/tree/master/packages/image) - Import JPG, PNG, GIF and SVG images.
 - [inject](https://github.com/rollup/plugins/tree/master/packages/inject) - Scans for global variables and injects `import` statements.
@@ -29,11 +36,13 @@ Plugins created and maintained by the Rollup organization.
 - [legacy](https://github.com/rollup/plugins/tree/master/packages/legacy) - Add export statements to plain scripts.
 - [multi-entry](https://github.com/rollup/plugins/tree/master/packages/multi-entry) - Multiple entry points for a bundle.
 - [node-resolve](https://github.com/rollup/plugins/tree/master/packages/node-resolve) - Use the Node resolution algorithm.
+- [pluginutils](https://github.com/rollup/plugins/tree/master/packages/pluginutils) - Set of utility functions commonly used by 🍣 Rollup plugins.
 - [replace](https://github.com/rollup/plugins/tree/master/packages/replace) – Replace occurrences of a set of strings.
 - [run](https://github.com/rollup/plugins/tree/master/packages/run) - Run your bundle after it's generated.
 - [strip](https://github.com/rollup/plugins/tree/master/packages/strip) - Remove expressions from code.
-- [sucrase](https://github.com/rollup/plugins/tree/master/packages/sucrase) - Compile
-, Flow, JSX.
+- [sucrase](https://github.com/rollup/plugins/tree/master/packages/sucrase) - Compile, Flow, JSX.
+- [swc](https://github.com/rollup/plugins/tree/master/packages/swc) - Transpile TypeScript/JavaScript with the speedy-web-compiler (swc).
+- [terser](https://github.com/rollup/plugins/tree/master/packages/terser) - Generate a minified bundle with terser.
 - [typescript](https://github.com/rollup/plugins/tree/master/packages/typescript) - Seamless integration with Typescript.
 - [url](https://github.com/rollup/plugins/tree/master/packages/url) - Inline import files as data-URIs.
 - [virtual](https://github.com/rollup/plugins/tree/master/packages/virtual) - Load modules from memory.
@@ -85,6 +94,7 @@ Plugins for working with CSS.
 - [sass](https://github.com/differui/rollup-plugin-sass#readme) - SASS integration for a bundle.
 - [scss](https://github.com/thgh/rollup-plugin-scss) - Compile SASS and CSS.
 - [styles](https://github.com/Anidetrix/rollup-plugin-styles) - Universal plugin for styles: PostCSS, Sass, Less, Stylus and more.
+- [styler](https://github.com/plumelo/rollup-plugin-styler) - Universal plugin for styles: PostCSS, Sass, Less, Stylus and more (fork).
 - [stylus-css-modules](https://github.com/mtojo/rollup-plugin-stylus-css-modules) – Compile Stylus and inject CSS modules
 - [sass-variables](https://github.com/gmfun/rollup-plugin-sass-variables) - Import SASS variables as Objects.
 
@@ -123,6 +133,7 @@ and external modules.
 - [node-builtins](https://github.com/calvinmetcalf/rollup-plugin-node-builtins) - Node builtin modules as ES modules.
 - [node-globals](https://github.com/calvinmetcalf/rollup-plugin-node-globals) - Injects node globals.
 - [node-resolve-angular](https://github.com/OasisDigital/rollup-plugin-node-resolve-angular) - Node module resolution support for Angular 4+.
+- [no-op](https://github.com/dmnsgn/rollup-plugin-no-op) - Replace imported modules with empty object
 - [ts-paths](https://github.com/bitshiftza/rollup-plugin-ts-paths) – Resolve modules from `tsconfig` paths.
 - [skypack-resolver](https://github.com/vinicius73/rollup-plugin-pika-resolver) - Use [Skypack CDN](https://skypack.dev/) for external dependencies.
 - [web-worker-loader](https://github.com/darionco/rollup-plugin-web-worker-loader) - Package Workers for NodeJS and the browser.
@@ -188,11 +199,13 @@ Plugins which affect the final output of a bundle.
 - [output-manifest](https://github.com/shuizhongyueming/rollup-plugin-output-manifest) - Generating a chunk manifest.
 - [preserve-shebang](https://github.com/developit/rollup-plugin-preserve-shebang) - Preserves leading shebang in a build entry.
 - [prettier](https://github.com/mjeanroy/rollup-plugin-prettier) - Run prettier on a bundle.
+- [pull-remote-blob](https://github.com/aabmets/rollup-plugin-pull-remote-blob) - Download files during build time using varous config options.
 - [rebase](https://github.com/sebastian-software/rollup-plugin-rebase) - Copies and adjusts asset references to new destination-relative location.
 - [shift-header](https://github.com/jacksonrayhamilton/rollup-plugin-shift-header) - Move comment headers to the top of a bundle.
+- [source-hash](https://github.com/jhildenbiddle/rollup-plugin-source-hash) - Insert hash values based on pre-bundled source code into filenames and bundled code.
 - [sri](https://github.com/JonasKruckenberg/rollup-plugin-sri) - Add subresource integrity attributes for your bundle.
 - [static-site](https://gitlab.com/thekelvinliu/rollup-plugin-static-site) - Generate HTML for a bundle.
-- [terser](https://github.com/TrySound/rollup-plugin-terser) - Minify a bundle using Terser.
+- [strip-prop-types](https://github.com/m00nbyte/rollup-plugin-strip-prop-types) - Removes propTypes, defaultProps, and prop-types imports, with TypeScript support and custom import paths.
 - [uglify](https://github.com/TrySound/rollup-plugin-uglify) - Minify a bundle with UglifyJS.
 - [version-injector](https://github.com/djhouseknecht/rollup-plugin-version-injector) - Inject your package’s version number into static build files.
 - [zip](https://github.com/mentaljam/rollup-plugin-zip) - Pack all assets into a zip file.
