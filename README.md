@@ -22,6 +22,7 @@ Plugins created and maintained by the Rollup organization.
 - [beep](https://github.com/rollup/plugins/tree/master/packages/beep) - Plugin that beeps when a build ends with errors.
 - [buble](https://github.com/rollup/plugins/tree/master/packages/buble) – Transpile with Bublé.
 - [commonjs](https://github.com/rollup/plugins/tree/master/packages/commonjs) - Convert CommonJS modules to ES Modules.
+- [dynamic-import-vars](https://github.com/rollup/plugins/tree/master/packages/dynamic-import-vars) - Resolving dynamic imports that contain variables.
 - [data-uri](https://github.com/rollup/plugins/tree/master/packages/data-uri) - Imports modules from Data URIs.
 - [dsv](https://github.com/rollup/plugins/tree/master/packages/dsv) - Convert CSV and TSV files into JavaScript modules.
 - [dynamic-import-vars](https://github.com/rollup/plugins/tree/master/packages/dynamic-import-vars) - Support variables in dynamic imports in Rollup.
