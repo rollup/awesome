@@ -86,6 +86,7 @@ Plugins for working with CSS.
 - [css-only](https://github.com/thgh/rollup-plugin-css-only) – Output plain CSS.
 - [css-porter](https://github.com/RJHwang/rollup-plugin-css-porter) - Combine CSS imports and output to file.
 - [embed-css](https://github.com/kei-ito/rollup-plugin-embed-css) - Import and append CSS to a bundle.
+- [import-css](https://github.com/jleeson/rollup-plugin-import-css) - A plugin to import CSS into JavaScript.
 - [keep-css-imports](https://github.com/SLTKA/rollup-plugin-keep-css-imports) - Output separate CSS files and keep imports in JS, enabling the bundling of component libraries which allow consumers to "tree shake" unused components' CSS.
 - [less](https://github.com/xiaofuzi/rollup-plugin-less) - Compile LESS files.
 - [less-modules](https://github.com/katrotz/rollup-plugin-less-modules) - Import or Bundle LESS files.
@@ -96,7 +97,6 @@ Plugins for working with CSS.
 - [styler](https://github.com/plumelo/rollup-plugin-styler) - Universal plugin for styles: PostCSS, Sass, Less, Stylus and more (fork).
 - [stylus-css-modules](https://github.com/mtojo/rollup-plugin-stylus-css-modules) – Compile Stylus and inject CSS modules
 - [sass-variables](https://github.com/gmfun/rollup-plugin-sass-variables) - Import SASS variables as Objects.
-- [import-css](https://github.com/jleeson/rollup-plugin-import-css) - A plugin to import CSS into JavaScript.
 
 ### Frameworks
 
