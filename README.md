@@ -96,6 +96,7 @@ Plugins for working with CSS.
 - [styler](https://github.com/plumelo/rollup-plugin-styler) - Universal plugin for styles: PostCSS, Sass, Less, Stylus and more (fork).
 - [stylus-css-modules](https://github.com/mtojo/rollup-plugin-stylus-css-modules) – Compile Stylus and inject CSS modules
 - [sass-variables](https://github.com/gmfun/rollup-plugin-sass-variables) - Import SASS variables as Objects.
+- [import-css](https://github.com/jleeson/rollup-plugin-import-css) - A plugin to import CSS into JavaScript.
 
 ### Frameworks
 
