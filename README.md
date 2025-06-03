@@ -201,6 +201,7 @@ Plugins which affect the final output of a bundle.
 - [prettier](https://github.com/mjeanroy/rollup-plugin-prettier) - Run prettier on a bundle.
 - [pull-remote-blob](https://github.com/aabmets/rollup-plugin-pull-remote-blob) - Download files during build time using varous config options.
 - [rebase](https://github.com/sebastian-software/rollup-plugin-rebase) - Copies and adjusts asset references to new destination-relative location.
+- [remove-attributes](https://github.com/jacobbogers/rollup-plugin-jsx-remove-attributes) - Remove attribute `data-testid` (or any other collection of attributes) from final react production builds.
 - [shift-header](https://github.com/jacksonrayhamilton/rollup-plugin-shift-header) - Move comment headers to the top of a bundle.
 - [source-hash](https://github.com/jhildenbiddle/rollup-plugin-source-hash) - Insert hash values based on pre-bundled source code into filenames and bundled code.
 - [sri](https://github.com/JonasKruckenberg/rollup-plugin-sri) - Add subresource integrity attributes for your bundle.
