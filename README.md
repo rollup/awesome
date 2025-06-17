@@ -61,6 +61,7 @@ Plugins created and maintained by the Rollup organization.
 - [serve](https://github.com/thgh/rollup-plugin-serve) - Development Server in a Plugin.
 - [sizes](https://github.com/tivac/rollup-plugin-sizes) - Display bundle content and size in the console.
 - [size-snapshot](https://github.com/TrySound/rollup-plugin-size-snapshot) - Track bundle size and treeshakability with ease.
+- [sonda](https://github.com/filipsobol/sonda) - Visualizer and analyzer for JavaScript and CSS bundles.
 - [visualizer](https://github.com/btd/rollup-plugin-visualizer) - Bundle and dependency visualizer.
 
 ### Code Quality
