@@ -167,6 +167,7 @@ Plugins which allow importing other types of files as modules.
 - [vinyl](https://github.com/operandom/rollup-plugin-vinyl) - Import from [Vinyl](https://github.com/gulpjs/vinyl) files
 - [smart-asset](https://github.com/sormy/rollup-plugin-smart-asset) - Import any assets as url using rebase, copy or inline mode. Similar to `url` but has more hashing options and works well together with babel using transform hook.
 - [toml](https://github.com/YanceyOfficial/rollup-plugin-toml) - Convert .toml files to ES6 modules.
+- [import-raw](https://github.com/kimverchan/rollup-plugin-import-raw) - Assets can be imported as strings using the ?raw suffix.
 
 ### Output
 
