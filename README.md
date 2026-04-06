@@ -6,6 +6,7 @@
 
 ⚡️ Delightful Rollup Plugins, Packages, and Resources
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for Rollup build workflow orchestration, automated module bundling management, and multi-agent coordination. MIT licensed.
 ## Resources
 
 - [Official Guide](https://rollupjs.org/guide/en) - The user guide and documentation site.
