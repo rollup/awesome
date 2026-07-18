@@ -9,7 +9,6 @@
 ## Resources
 
 - [Official Guide](https://rollupjs.org/guide/en) - The user guide and documentation site.
-- [Rollup Config Generator](https://draftkit.co/dev-launch-pack/rollup-config-generator.html) - Free web tool that generates a ready-to-commit rollup.config.js / .mjs / .ts from project presets (library, library+UMD, app, CLI), output formats (ESM, CJS, UMD, IIFE, System), 11 plugins, externals, sourcemaps, treeshaking, and code-splitting with preserveModules.
 
 ## Plugins
 
@@ -59,6 +58,7 @@ Plugins created and maintained by the Rollup organization.
 - [notify](https://github.com/MikeKovarik/rollup-plugin-notify) – Display errors as system notifications.
 - [progress](https://github.com/jkuri/rollup-plugin-progress) - Show build progress in the console.
 - [rollpkg](https://github.com/rafgraph/rollpkg) - No config build tool to create packages with Rollup and TypeScript
+- [Rollup Config Generator](https://draftkit.co/dev-launch-pack/rollup-config-generator.html) - Web tool that generates a ready-to-commit rollup.config.js, .mjs, or .ts.
 - [serve](https://github.com/thgh/rollup-plugin-serve) - Development Server in a Plugin.
 - [sizes](https://github.com/tivac/rollup-plugin-sizes) - Display bundle content and size in the console.
 - [size-snapshot](https://github.com/TrySound/rollup-plugin-size-snapshot) - Track bundle size and treeshakability with ease.
